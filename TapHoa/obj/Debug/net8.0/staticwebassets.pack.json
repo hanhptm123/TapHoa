@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
     },
     {
+      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
