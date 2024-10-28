@@ -1,0 +1,32 @@
+﻿@model TapHoa.Data.Khuyenmai
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Login.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Khuyenmai</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Makm" />
+            <div class="form-group">
+                <label asp-for="Phantramgiam" class="control-label"></label>
+                <input asp-for="Phantramgiam" class="form-control" />
+                <span asp-validation-for="Phantramgiam" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

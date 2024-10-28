@@ -1,0 +1,30 @@
+﻿@model IEnumerable<TapHoa.Data.Sanpham> // Ensure this is correct
+
+@if (Model != null && Model.Any())
+{
+    foreach (var item in Model) // Now this works because Model is a collection
+    {
+        <div class="row">
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="product__item">
+                    <div class="product__item__pic set-bg">
+                        <img src="@item.Hinhanh" alt="Product Image">
+                        <ul class="product__item__pic__hover">
+                            <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                            <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                            <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="product__item__text">
+                        <h6><a href="#">@item.Tensp</a></h6>
+                        <h5>@item.Gia</h5> <!-- Assuming you have a property for the price -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <div>No products available</div>
+}
