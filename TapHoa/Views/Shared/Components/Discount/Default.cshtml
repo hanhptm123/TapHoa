@@ -12,19 +12,19 @@
                 {
                     <div class="col-lg-4">
                         <div class="product__discount__item">
-                            <div class="product__discount__item__pic set-bg"
-                                 style="background-image: url('@item.Hinhanh');">
-                                <!-- Assuming 'Hinhanh' holds the image URL -->
+                            <div class="product__discount__item__pic">
+                                <img src="@item.Hinhanh" alt="Hình ảnh sản phẩm" style="width: 100%; height: auto;">
                                 <div class="product__discount__percent">-@item.MakmNavigation.Phantramgiam%</div>
                                 <ul class="product__item__pic__hover">
                                     <li><a href="#"><i class="fa fa-heart"></i></a></li>
                                     <li><a href="#"><i class="fa fa-retweet"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                                    <li><a asp-action="AddToCart" asp-controller="CartItem" asp-route-id="@item.Masp"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
+
                             <div class="product__discount__item__text">
                                 <span>@item.MaloaispNavigation.Tenloaisp</span> <!-- Assuming this holds the category name -->
-                                <h5><a href="#">@item.Tensp</a></h5>
+                                <h5><a asp-action="Details" asp-controller="Sanphams" asp-route-id="@item.Masp">@item.Tensp</a></h5>
                                 <div class="product__item__price">
                                     @(decimal.Multiply(item.Gia, 1 - ((decimal)item.MakmNavigation.Phantramgiam / 100)).ToString("C"))
                                     <span>@((decimal)item.Gia).ToString("C")</span>

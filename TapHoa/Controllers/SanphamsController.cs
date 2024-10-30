@@ -39,6 +39,7 @@ namespace TapHoa.Controllers
                 .Include(s => s.ManccNavigation)
                 .Include(s => s.MathNavigation)
                 .FirstOrDefaultAsync(m => m.Masp == id);
+
             if (sanpham == null)
             {
                 return NotFound();
@@ -46,6 +47,7 @@ namespace TapHoa.Controllers
 
             return View(sanpham);
         }
+
 
         // GET: Sanphams/Create
         public IActionResult Create()
