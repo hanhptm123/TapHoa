@@ -1,0 +1,25 @@
+﻿@model TapHoa.Data.Nhacungcap
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Login.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Nhacungcap</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Tenncc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Tenncc)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Mancc">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
