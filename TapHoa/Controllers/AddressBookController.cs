@@ -1,122 +1,88 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Http;
-using TapHoa.Interfaces;
-using TapHoa.Models;
-using TapHoa.Data; 
+using Newtonsoft.Json;
+using System.Collections.Generic;
+using System.Net.Http;
+using System.Threading.Tasks;
 
-namespace TapHoa.Controllers
+[Authorize]
+public class AddressBookController : Controller
 {
-    public class LoginController : Controller
+    private readonly ApplicationDbContext _context;
+    private readonly HttpClient _httpClient;
+
+    public AddressBookController(ApplicationDbContext context, HttpClient httpClient)
     {
-        private readonly IUserService _userService;
-        private readonly IAddressService _addressService;
-        private IHttpContextAccessor _httpContextAccessor;
-
-        public LoginController(IUserService userService, IAddressService addressService, IHttpContextAccessor httpContextAccessor)
-        {
-            _userService = userService;
-            _addressService = addressService;
-            _httpContextAccessor = httpContextAccessor;
-        }
-
-        [HttpGet]
-        public IActionResult Login()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public IActionResult Login(User model)
-        {
-            if (ModelState.IsValid)
-            {
-                var user = _userService.Authenticate(model.Username, model.Password);
-                if (user != null)
-                {
-                    HttpContext.Session.SetString("UserId", user.Id.ToString());
-                    HttpContext.Session.SetString("Role", user.Role.ToString());
-                    return RedirectToAction("Profile");
-                }
-                else
-                {
-                    ModelState.AddModelError("", "Invalid username or password");
-                }
-            }
-            return View(model);
-        }
-
-        [HttpGet]
-        public IActionResult Register()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public IActionResult Register(User model)
-        {
-            if (ModelState.IsValid)
-            {
-                _userService.Register(model);
-                return RedirectToAction("Login");
-            }
-            return View(model);
-        }
-
-        [HttpGet]
-        public IActionResult Profile()
-        {
-            var userIdString = HttpContext.Session.GetString("UserId");
-            if (int.TryParse(userIdString, out int userId))
-            {
-                var user = _userService.GetUserById(userId);
-                if (user != null)
-                {
-                    return View(user);
-                }
-            }
-            return RedirectToAction("Login");
-        }
-
-        [HttpPost]
-        public IActionResult Profile(User model)
-        {
-            if (ModelState.IsValid)
-            {
-                _userService.UpdateUserProfile(model);
-                return RedirectToAction("Profile");
-            }
-            return View(model);
-        }
-
-        public IActionResult Logout()
-        {
-            HttpContext.Session.Clear();
-            return RedirectToAction("Index", "Home");
-        }
-
-        [HttpGet]
-        public IActionResult DiaChi()
-        {
-            var userIdString = HttpContext.Session.GetString("UserId");
-            if (int.TryParse(userIdString, out int userId))
-            {
-                var addresses = _addressService.GetAddressesByUserId(userId);
-                return View(addresses);
-            }
-            return RedirectToAction("Login");
-        }
-
-        [HttpPost]
-        public IActionResult AddDiaChi([FromBody] SoDiaChi newAddress)
-        {
-            var userIdString = HttpContext.Session.GetString("UserId");
-            if (int.TryParse(userIdString, out int userId))
-            {
-                newAddress.UserId = userId;
-                _addressService.AddAddress(newAddress);
-                return RedirectToAction(nameof(DiaChi));
-            }
-            return RedirectToAction("Login");
-        }
+        _context = context;
+        _httpClient = httpClient;
     }
+
+    public async Task<IActionResult> Create()
+    {
+        var provinces = await GetProvincesAsync();
+        ViewBag.Provinces = provinces;
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Create(SoDiaChi soDiaChi)
+    {
+        if (ModelState.IsValid)
+        {
+            soDiaChi.KhachhangId = User.FindFirst("Matk")?.Value;
+            _context.SoDiaChis.Add(soDiaChi);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+        return View(soDiaChi);
+    }
+
+    private async Task<List<Province>> GetProvincesAsync()
+    {
+        var response = await _httpClient.GetAsync("https://example.com/api/vietnam/provinces");
+        response.EnsureSuccessStatusCode();
+        
+        var jsonString = await response.Content.ReadAsStringAsync();
+        var provinces = JsonConvert.DeserializeObject<List<Province>>(jsonString);
+        return provinces;
+    }
+
+    private async Task<List<District>> GetDistrictsAsync(string provinceId)
+    {
+        var response = await _httpClient.GetAsync($"https://example.com/api/vietnam/districts?provinceId={provinceId}");
+        response.EnsureSuccessStatusCode();
+        
+        var jsonString = await response.Content.ReadAsStringAsync();
+        var districts = JsonConvert.DeserializeObject<List<District>>(jsonString);
+        return districts;
+    }
+
+    private async Task<List<Ward>> GetWardsAsync(string districtId)
+    {
+        var response = await _httpClient.GetAsync($"https://example.com/api/vietnam/wards?districtId={districtId}");
+        response.EnsureSuccessStatusCode();
+        
+        var jsonString = await response.Content.ReadAsStringAsync();
+        var wards = JsonConvert.DeserializeObject<List<Ward>>(jsonString);
+        return wards;
+    }
+}
+
+// Mẫu class cho Province, District và Ward
+public class Province
+{
+    public string Id { get; set; }
+    public string Name { get; set; }
+}
+
+public class District
+{
+    public string Id { get; set; }
+    public string Name { get; set; }
+}
+
+public class Ward
+{
+    public string Id { get; set; }
+    public string Name { get; set; }
 }

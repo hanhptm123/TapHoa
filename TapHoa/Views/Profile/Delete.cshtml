@@ -1,0 +1,20 @@
+@model TapHoa.Data.Khachhang
+
+<h2 class="text-2xl font-bold text-red-500">Xóa Khách Hàng</h2>
+
+<p>Bạn có chắc chắn muốn xóa khách hàng này không?</p>
+<dl class="mt-4">
+    <dt class="font-semibold">Tên</dt>
+    <dd>@Model.Name</dd>
+    <dt class="font-semibold">Email</dt>
+    <dd>@Model.Email</dd>
+    <dt class="font-semibold">Số Điện Thoại</dt>
+    <dd>@Model.PhoneNumber</dd>
+    <dt class="font-semibold">Địa Chỉ</dt>
+    <dd>@Model.Address</dd>
+</dl>
+
+<form asp-action="Delete" method="post" class="mt-4">
+    <button type="submit" class="bg-red-500 text-white px-4 py-2 rounded">Xóa</button>
+    <a asp-action="Index" class="text-blue-500 ml-4">Hủy</a>
+</form>
