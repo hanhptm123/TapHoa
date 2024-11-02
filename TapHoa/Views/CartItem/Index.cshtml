@@ -60,8 +60,11 @@
                                         @item.Thanhtien.ToString("C")
                                     </td>
                                     <td class="shoping__cart__item__close">
-                                        <span class="icon_close"></span>
+                                        <a asp-action="RemoveFromCart" asp-controller="CartItem" asp-route-MASP="@item.Masanpham" title="Remove from Cart">
+                                            <span class="icon_close"></span>
+                                        </a>
                                     </td>
+
                                 </tr>
                             }
                         </tbody>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TapHoa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1bcd8584f73529fde1b47485d498d88717e9d75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+122919492e70e8c89b910db07d6a9711b030ddee")]
 [assembly: System.Reflection.AssemblyProductAttribute("TapHoa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TapHoa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
