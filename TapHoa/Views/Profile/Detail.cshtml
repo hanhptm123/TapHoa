@@ -1,0 +1,17 @@
+@model Khachhang
+
+<h2 class="text-2xl font-bold">Chi Tiết Khách Hàng</h2>
+
+<dl class="mt-4">
+    <dt class="font-semibold">Tên</dt>
+    <dd>@Model.Name</dd>
+    <dt class="font-semibold">Email</dt>
+    <dd>@Model.Email</dd>
+    <dt class="font-semibold">Số Điện Thoại</dt>
+    <dd>@Model.PhoneNumber</dd>
+    <dt class="font-semibold">Địa Chỉ</dt>
+    <dd>@Model.Address</dd>
+</dl>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="bg-blue-500 text-white px-4 py-2 rounded mt-4">Chỉnh Sửa</a>
+<a asp-action="Index" class="text-blue-500 ml-4">Quay lại danh sách</a>

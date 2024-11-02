@@ -1,0 +1,57 @@
+@model SoDiaChi
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="ThanhPho">Tỉnh thành</label>
+        <select asp-for="ThanhPho" class="form-control" id="provinceSelect">
+            <option value="">Chọn tỉnh thành</option>
+            @foreach (var province in ViewBag.Provinces)
+            {
+                <option value="@province.Id">@province.Name</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="QuanHuyen">Quận huyện</label>
+        <select asp-for="QuanHuyen" class="form-control" id="districtSelect">
+            <option value="">Chọn quận huyện</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Xa">Xã</label>
+        <select asp-for="Xa" class="form-control" id="wardSelect">
+            <option value="">Chọn xã</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Lưu</button>
+</form>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#provinceSelect').change(function () {
+                var provinceId = $(this).val();
+                $.getJSON('/api/vietnam/districts?provinceId=' + provinceId, function (data) {
+                    $('#districtSelect').empty().append('<option value="">Chọn quận huyện</option>');
+                    $.each(data, function (index, item) {
+                        $('#districtSelect').append('<option value="' + item.Id + '">' + item.Name + '</option>');
+                    });
+                });
+            });
+
+            $('#districtSelect').change(function () {
+                var districtId = $(this).val();
+                $.getJSON('/api/vietnam/wards?districtId=' + districtId, function (data) {
+                    $('#wardSelect').empty().append('<option value="">Chọn xã</option>');
+                    $.each(data, function (index, item) {
+                        $('#wardSelect').append('<option value="' + item.Id + '">' + item.Name + '</option>');
+                    });
+                });
+            });
+        });
+    </script>
+}
