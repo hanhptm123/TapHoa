@@ -1,101 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Taphoa\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\views\\thuonghieu\\danhmucthuonghieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\views\\thuonghieu\\danhmucthuonghieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\controllers\\thuonghieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\controllers\\thuonghieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\controllers\\nhacccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\controllers\\nhacccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\views\\nhacc\\themncc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\views\\nhacc\\themncc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\views\\nhacc\\danhmucnhacc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\views\\nhacc\\danhmucnhacc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\views\\homeadmin\\danhmucloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\views\\homeadmin\\danhmucloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\views\\homeadmin\\themloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\views\\homeadmin\\themloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\data\\taphoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\data\\taphoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\data\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\data\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\taphoa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\taphoa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\taphoa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\taphoa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\data\\taphoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\data\\taphoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\data\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\data\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\views\\taikhoans\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\views\\taikhoans\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\views\\taikhoans\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\views\\taikhoans\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\views\\taikhoans\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\views\\taikhoans\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|d:\\taphoa\\taphoa\\controllers\\taikhoanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|c:\\users\\admin\\source\\repos\\taphoa1\\taphoa\\controllers\\taikhoanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D4458FF-9C13-48A9-950F-8A5B120AF4E2}|TapHoa\\TapHoa.csproj|solutionrelative:taphoa\\controllers\\taikhoanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -106,20 +62,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 7,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NhaccController.cs",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Controllers\\NhaccController.cs",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Controllers\\NhaccController.cs",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Controllers\\NhaccController.cs",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Controllers\\NhaccController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T18:37:38.231Z",
-              "IsPinned": true
+              "WhenOpened": "2024-11-02T04:54:58.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -147,148 +103,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DanhMucThuongHieu.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\ThuongHieu\\DanhMucThuongHieu.cshtml",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Views\\ThuongHieu\\DanhMucThuongHieu.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\ThuongHieu\\DanhMucThuongHieu.cshtml",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Views\\ThuongHieu\\DanhMucThuongHieu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T19:12:14.791Z",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Program.cs",
+              "RelativeDocumentMoniker": "TapHoa\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Program.cs",
+              "RelativeToolTip": "TapHoa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:54:07.481Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ThuongHieuController.cs",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Controllers\\ThuongHieuController.cs",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Controllers\\ThuongHieuController.cs",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Controllers\\ThuongHieuController.cs",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Controllers\\ThuongHieuController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T19:08:58.278Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\appsettings.json",
+              "RelativeDocumentMoniker": "TapHoa\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\appsettings.json",
+              "RelativeToolTip": "TapHoa\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T17:20:15.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ThemNcc.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\Nhacc\\ThemNcc.cshtml",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Views\\Nhacc\\ThemNcc.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\Nhacc\\ThemNcc.cshtml",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Views\\Nhacc\\ThemNcc.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T18:59:42.959Z"
+              "Title": "TaphoaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Data\\TaphoaContext.cs",
+              "RelativeDocumentMoniker": "TapHoa\\Data\\TaphoaContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Data\\TaphoaContext.cs",
+              "RelativeToolTip": "TapHoa\\Data\\TaphoaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:47:21.43Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAAMsAAAAAAAAAAAAMwNUAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T17:22:55.858Z"
+              "DocumentIndex": 3,
+              "Title": "TapHoa.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Source\\Repos\\TAPHOA1\\TapHoa\\TapHoa.csproj",
+              "RelativeDocumentMoniker": "TapHoa\\TapHoa.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Source\\Repos\\TAPHOA1\\TapHoa\\TapHoa.csproj*",
+              "RelativeToolTip": "TapHoa\\TapHoa.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T17:21:24.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DanhMucNhacc.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\Nhacc\\DanhMucNhacc.cshtml",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Views\\Nhacc\\DanhMucNhacc.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\Nhacc\\DanhMucNhacc.cshtml",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Views\\Nhacc\\DanhMucNhacc.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T18:50:15.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DanhMucLoaiSanPham.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucLoaiSanPham.cshtml",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucLoaiSanPham.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucLoaiSanPham.cshtml",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucLoaiSanPham.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T18:21:14.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DanhMucSanPham.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T17:38:12.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ThemLoai.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\ThemLoai.cshtml",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\ThemLoai.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\ThemLoai.cshtml",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\ThemLoai.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T18:28:56.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TaphoaContext.cs",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Data\\TaphoaContext.cs",
-              "RelativeDocumentMoniker": "TapHoa\\Data\\TaphoaContext.cs",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Data\\TaphoaContext.cs",
-              "RelativeToolTip": "TapHoa\\Data\\TaphoaContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:47:21.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SuaSanPham.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T17:55:39.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ThemSanPhamMoi.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAEoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T17:29:04.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Khuyenmai.cs",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Data\\Khuyenmai.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Data\\Khuyenmai.cs",
               "RelativeDocumentMoniker": "TapHoa\\Data\\Khuyenmai.cs",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Data\\Khuyenmai.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Data\\Khuyenmai.cs",
               "RelativeToolTip": "TapHoa\\Data\\Khuyenmai.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -296,59 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeDocumentMoniker": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeToolTip": "TapHoa\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T13:55:16.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TapHoa.csproj",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\TapHoa.csproj",
-              "RelativeDocumentMoniker": "TapHoa\\TapHoa.csproj",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\TapHoa.csproj",
-              "RelativeToolTip": "TapHoa\\TapHoa.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-30T17:21:24.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "TapHoa\\ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "TapHoa\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-30T17:21:58.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\appsettings.json",
-              "RelativeDocumentMoniker": "TapHoa\\appsettings.json",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\appsettings.json",
-              "RelativeToolTip": "TapHoa\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-30T17:20:15.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
               "Title": "_Header.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Views\\Shared\\_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Views\\Shared\\_Header.cshtml",
               "RelativeDocumentMoniker": "TapHoa\\Views\\Shared\\_Header.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Views\\Shared\\_Header.cshtml",
               "RelativeToolTip": "TapHoa\\Views\\Shared\\_Header.cshtml",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAG4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -356,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "login.css",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\login.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\wwwroot\\css\\login.css",
               "RelativeDocumentMoniker": "TapHoa\\wwwroot\\css\\login.css",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\wwwroot\\css\\login.css",
               "RelativeToolTip": "TapHoa\\wwwroot\\css\\login.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -368,11 +191,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 8,
               "Title": "style.css",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\style.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "TapHoa\\wwwroot\\css\\style.css",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\wwwroot\\css\\style.css",
               "RelativeToolTip": "TapHoa\\wwwroot\\css\\style.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -380,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 9,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Views\\Taikhoans\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Views\\Taikhoans\\Register.cshtml",
               "RelativeDocumentMoniker": "TapHoa\\Views\\Taikhoans\\Register.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Views\\Taikhoans\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Views\\Taikhoans\\Register.cshtml",
               "RelativeToolTip": "TapHoa\\Views\\Taikhoans\\Register.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -392,11 +215,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Views\\Taikhoans\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Views\\Taikhoans\\Login.cshtml",
               "RelativeDocumentMoniker": "TapHoa\\Views\\Taikhoans\\Login.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Views\\Taikhoans\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Views\\Taikhoans\\Login.cshtml",
               "RelativeToolTip": "TapHoa\\Views\\Taikhoans\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -404,11 +227,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 11,
               "Title": "_Login.cshtml",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Views\\Shared\\_Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Views\\Shared\\_Login.cshtml",
               "RelativeDocumentMoniker": "TapHoa\\Views\\Shared\\_Login.cshtml",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Views\\Shared\\_Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Views\\Shared\\_Login.cshtml",
               "RelativeToolTip": "TapHoa\\Views\\Shared\\_Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -416,15 +239,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 12,
               "Title": "TaikhoansController.cs",
-              "DocumentMoniker": "D:\\Taphoa\\TapHoa\\Controllers\\TaikhoansController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Controllers\\TaikhoansController.cs",
               "RelativeDocumentMoniker": "TapHoa\\Controllers\\TaikhoansController.cs",
-              "ToolTip": "D:\\Taphoa\\TapHoa\\Controllers\\TaikhoansController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TAPHOA1\\TapHoa\\Controllers\\TaikhoansController.cs",
               "RelativeToolTip": "TapHoa\\Controllers\\TaikhoansController.cs",
               "ViewState": "AQIAAJsAAAAAAAAAAAAgwLsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T17:19:05.902Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },

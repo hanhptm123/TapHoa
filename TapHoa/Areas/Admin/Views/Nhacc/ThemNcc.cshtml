@@ -1,0 +1,28 @@
+﻿@model TapHoa.Data.Nhacungcap
+
+@{
+    ViewData["Title"] = "ThemNcc";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h3>Thêm nhà cung cấp</h3>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="ThemNcc">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Tenncc" class="control-label">Tên nhà cung cấp</label>
+                <input asp-for="Tenncc" class="form-control" />
+                <span asp-validation-for="Tenncc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Tạo" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="DanhMucNhacc"> Trở lại</a>
+</div>
+
