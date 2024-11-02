@@ -1,759 +1,1371 @@
 {
   "Files": [
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TapHoa.bundle.scp.css",
+      "Id": "D:\\Taphoa\\TapHoa\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TapHoa.bundle.scp.css",
       "PackagePath": "staticwebassets\\TapHoa.bundle.scp.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\.gitignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\LICENSE",
+      "PackagePath": "staticwebassets\\LayoutAdmin"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\README.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\package.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
+    },
+    {
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
       "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4.zip"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\Source\\SlickNav-master.zip",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\Source\\SlickNav-master.zip",
       "PackagePath": "staticwebassets\\Source\\SlickNav-master.zip"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\Source\\bootstrap-4.4.1-dist.zip",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\Source\\bootstrap-4.4.1-dist.zip",
       "PackagePath": "staticwebassets\\Source\\bootstrap-4.4.1-dist.zip"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\Source\\font-awesome-4.7.0.zip",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\Source\\font-awesome-4.7.0.zip",
       "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0.zip"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\Source\\jquery-nice-select-1.1.0.zip",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\Source\\jquery-nice-select-1.1.0.zip",
       "PackagePath": "staticwebassets\\Source\\jquery-nice-select-1.1.0.zip"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\Source\\jquery-ui-1.12.1.zip",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\Source\\jquery-ui-1.12.1.zip",
       "PackagePath": "staticwebassets\\Source\\jquery-ui-1.12.1.zip"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\Source\\sass.zip",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\Source\\sass.zip",
       "PackagePath": "staticwebassets\\Source\\sass.zip"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\blog-details.html",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\blog-details.html",
       "PackagePath": "staticwebassets\\blog-details.html"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\blog.html",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\blog.html",
       "PackagePath": "staticwebassets\\blog.html"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\checkout.html",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\checkout.html",
       "PackagePath": "staticwebassets\\checkout.html"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\contact.html",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\contact.html",
       "PackagePath": "staticwebassets\\contact.html"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\elegant-icons.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\elegant-icons.css",
       "PackagePath": "staticwebassets\\css\\elegant-icons.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\jquery-ui.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\login.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\nice-select.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\owl.carousel.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\site.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\slicknav.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\slicknav.min.css",
       "PackagePath": "staticwebassets\\css\\slicknav.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\css\\style.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\favicon.ico",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\fonts\\ElegantIcons.eot",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\fonts\\ElegantIcons.eot",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\fonts\\ElegantIcons.svg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\fonts\\ElegantIcons.svg",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\fonts\\ElegantIcons.ttf",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\fonts\\ElegantIcons.woff",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\fonts\\ElegantIcons.woff",
       "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\fonts\\FontAwesome.otf",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\banner\\banner-1.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\banner\\banner-1.jpg",
       "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\banner\\banner-2.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\banner\\banner-2.jpg",
       "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\blog-1.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\blog-1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\blog-2.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\blog-2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\blog-3.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\blog-3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\blog-4.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\blog-4.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\blog-5.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\blog-5.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\blog-6.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\blog-6.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\details\\details-author.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\details\\details-author.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\details\\details-author.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\details\\details-hero.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\details\\details-hero.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\details\\details-hero.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\details\\details-pic.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\details\\details-pic.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-1.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-2.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-3.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\breadcrumb.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\breadcrumb.jpg",
       "PackagePath": "staticwebassets\\img\\breadcrumb.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\cart\\cart-1.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\cart\\cart-1.jpg",
       "PackagePath": "staticwebassets\\img\\cart\\cart-1.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\cart\\cart-2.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\cart\\cart-2.jpg",
       "PackagePath": "staticwebassets\\img\\cart\\cart-2.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\cart\\cart-3.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\cart\\cart-3.jpg",
       "PackagePath": "staticwebassets\\img\\cart\\cart-3.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\categories\\cat-1.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\categories\\cat-1.jpg",
       "PackagePath": "staticwebassets\\img\\categories\\cat-1.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\categories\\cat-2.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\categories\\cat-2.jpg",
       "PackagePath": "staticwebassets\\img\\categories\\cat-2.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\categories\\cat-3.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\categories\\cat-3.jpg",
       "PackagePath": "staticwebassets\\img\\categories\\cat-3.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\categories\\cat-4.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\categories\\cat-4.jpg",
       "PackagePath": "staticwebassets\\img\\categories\\cat-4.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\categories\\cat-5.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\categories\\cat-5.jpg",
       "PackagePath": "staticwebassets\\img\\categories\\cat-5.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\featured\\feature-1.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\featured\\feature-1.jpg",
       "PackagePath": "staticwebassets\\img\\featured\\feature-1.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\featured\\feature-2.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\featured\\feature-2.jpg",
       "PackagePath": "staticwebassets\\img\\featured\\feature-2.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\featured\\feature-3.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\featured\\feature-3.jpg",
       "PackagePath": "staticwebassets\\img\\featured\\feature-3.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\featured\\feature-4.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\featured\\feature-4.jpg",
       "PackagePath": "staticwebassets\\img\\featured\\feature-4.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\featured\\feature-5.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\featured\\feature-5.jpg",
       "PackagePath": "staticwebassets\\img\\featured\\feature-5.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\featured\\feature-6.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\featured\\feature-6.jpg",
       "PackagePath": "staticwebassets\\img\\featured\\feature-6.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\featured\\feature-7.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\featured\\feature-7.jpg",
       "PackagePath": "staticwebassets\\img\\featured\\feature-7.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\featured\\feature-8.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\featured\\feature-8.jpg",
       "PackagePath": "staticwebassets\\img\\featured\\feature-8.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\hero\\banner.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\hero\\banner.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\banner.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\language.png",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\language.png",
       "PackagePath": "staticwebassets\\img\\language.png"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\latest-product\\lp-1.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\latest-product\\lp-1.jpg",
       "PackagePath": "staticwebassets\\img\\latest-product\\lp-1.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\latest-product\\lp-2.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\latest-product\\lp-2.jpg",
       "PackagePath": "staticwebassets\\img\\latest-product\\lp-2.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\latest-product\\lp-3.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\latest-product\\lp-3.jpg",
       "PackagePath": "staticwebassets\\img\\latest-product\\lp-3.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\logo.png",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\payment-item.png",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\payment-item.png",
       "PackagePath": "staticwebassets\\img\\payment-item.png"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\details\\product-details-1.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\details\\product-details-1.jpg",
       "PackagePath": "staticwebassets\\img\\product\\details\\product-details-1.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\details\\product-details-2.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\details\\product-details-2.jpg",
       "PackagePath": "staticwebassets\\img\\product\\details\\product-details-2.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\details\\product-details-3.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\details\\product-details-3.jpg",
       "PackagePath": "staticwebassets\\img\\product\\details\\product-details-3.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\details\\product-details-4.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\details\\product-details-4.jpg",
       "PackagePath": "staticwebassets\\img\\product\\details\\product-details-4.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\details\\product-details-5.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\details\\product-details-5.jpg",
       "PackagePath": "staticwebassets\\img\\product\\details\\product-details-5.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\details\\thumb-1.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\details\\thumb-1.jpg",
       "PackagePath": "staticwebassets\\img\\product\\details\\thumb-1.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\details\\thumb-2.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\details\\thumb-2.jpg",
       "PackagePath": "staticwebassets\\img\\product\\details\\thumb-2.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\details\\thumb-3.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\details\\thumb-3.jpg",
       "PackagePath": "staticwebassets\\img\\product\\details\\thumb-3.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\details\\thumb-4.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\details\\thumb-4.jpg",
       "PackagePath": "staticwebassets\\img\\product\\details\\thumb-4.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-1.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-1.jpg",
       "PackagePath": "staticwebassets\\img\\product\\discount\\pd-1.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-2.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-2.jpg",
       "PackagePath": "staticwebassets\\img\\product\\discount\\pd-2.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-3.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-3.jpg",
       "PackagePath": "staticwebassets\\img\\product\\discount\\pd-3.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-4.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-4.jpg",
       "PackagePath": "staticwebassets\\img\\product\\discount\\pd-4.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-5.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-5.jpg",
       "PackagePath": "staticwebassets\\img\\product\\discount\\pd-5.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-6.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\discount\\pd-6.jpg",
       "PackagePath": "staticwebassets\\img\\product\\discount\\pd-6.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-1.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-1.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-10.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-10.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-11.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-11.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-12.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-12.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-2.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-2.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-3.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-3.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-4.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-4.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-5.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-5.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-6.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-6.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-7.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-7.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-8.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-8.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\img\\product\\product-9.jpg",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\img\\product\\product-9.jpg",
       "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\index.html",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\js\\jquery-ui.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\js\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\js\\jquery.nice-select.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\js\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\js\\jquery.slicknav.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\js\\jquery.slicknav.js",
       "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\js\\main.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\js\\mixitup.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\js\\mixitup.min.js",
       "PackagePath": "staticwebassets\\js\\mixitup.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\js\\owl.carousel.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\js\\site.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\main.html",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\main.html",
       "PackagePath": "staticwebassets\\main.html"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\readme.txt",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\readme.txt",
       "PackagePath": "staticwebassets\\readme.txt"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_base.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_base.scss",
       "PackagePath": "staticwebassets\\sass\\_base.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_blog-details.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_blog-details.scss",
       "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_blog-sidebar.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_blog-sidebar.scss",
       "PackagePath": "staticwebassets\\sass\\_blog-sidebar.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_blog.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_blog.scss",
       "PackagePath": "staticwebassets\\sass\\_blog.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_breadcrumb.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_checkout.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_checkout.scss",
       "PackagePath": "staticwebassets\\sass\\_checkout.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_contact.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_contact.scss",
       "PackagePath": "staticwebassets\\sass\\_contact.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_footer.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_footer.scss",
       "PackagePath": "staticwebassets\\sass\\_footer.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_header.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_header.scss",
       "PackagePath": "staticwebassets\\sass\\_header.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_hero.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_hero.scss",
       "PackagePath": "staticwebassets\\sass\\_hero.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_home-page.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_home-page.scss",
       "PackagePath": "staticwebassets\\sass\\_home-page.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_mixins.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_mixins.scss",
       "PackagePath": "staticwebassets\\sass\\_mixins.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_responsive.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_responsive.scss",
       "PackagePath": "staticwebassets\\sass\\_responsive.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_shop-details.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_shop-details.scss",
       "PackagePath": "staticwebassets\\sass\\_shop-details.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_shop-grid.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_shop-grid.scss",
       "PackagePath": "staticwebassets\\sass\\_shop-grid.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_shoping-cart.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_shoping-cart.scss",
       "PackagePath": "staticwebassets\\sass\\_shoping-cart.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_sidebar.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_sidebar.scss",
       "PackagePath": "staticwebassets\\sass\\_sidebar.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\_variable.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\_variable.scss",
       "PackagePath": "staticwebassets\\sass\\_variable.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\sass\\style.scss",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\sass\\style.scss",
       "PackagePath": "staticwebassets\\sass\\style.scss"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\shop-details.html",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\shop-details.html",
       "PackagePath": "staticwebassets\\shop-details.html"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\shop-grid.html",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\shop-grid.html",
       "PackagePath": "staticwebassets\\shop-grid.html"
     },
     {
-      "Id": "D:\\TapHoa_1\\TapHoa\\TapHoa\\wwwroot\\shoping-cart.html",
+      "Id": "D:\\Taphoa\\TapHoa\\wwwroot\\shoping-cart.html",
       "PackagePath": "staticwebassets\\shoping-cart.html"
     },
     {

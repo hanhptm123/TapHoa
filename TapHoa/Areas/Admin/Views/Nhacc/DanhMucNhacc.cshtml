@@ -1,0 +1,35 @@
+﻿@model IEnumerable<TapHoa.Data.Nhacungcap>
+
+@{
+    ViewData["Title"] = "DanhMucNhacc";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DanhMucNhacc</h1>
+
+<p>
+    <a asp-action="ThemNcc">Tạo mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên nhà cung cấp
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tenncc)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Mancc">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Mancc">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

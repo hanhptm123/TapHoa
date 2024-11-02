@@ -1,0 +1,67 @@
+﻿@using X.PagedList
+@using X.PagedList.Mvc.Core
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@model IPagedList<TapHoa.Data.Sanpham>
+@{
+    ViewData["Title"] = "DanhMucSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h3>Danh mục các sản phẩm</h3>
+<p>
+    @TempData["Message"] 
+</p>
+<p>
+    <a asp-action="ThemSanPhamMoi">Tạo mới</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>Tên sản phẩm</th>
+            <th>Mô tả</th>
+            <th>Số lượng</th>
+            <th>Giá</th>
+            <th>Hình ảnh</th>
+            <th>Hình ảnh 1</th>
+            <th>Hình ảnh 2</th>
+            <th>Hình ảnh 3</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+            string cls = "table-success";
+        }
+        @foreach (var item in Model)
+        {
+            cls = "table-success";
+            i++;
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls">
+                <td>@item.Tensp</td>
+                <td>@item.Mota</td>
+                <td>@item.Soluong</td>
+                <td>@item.Gia</td>
+                <td><img src="@item.Hinhanh" alt="Hình ảnh" width="50" height="50" /></td>
+                <td><img src="@item.Hinhanh1" alt="Hình ảnh 1" width="50" height="50" /></td>
+                <td><img src="@item.Hinhanh2" alt="Hình ảnh 2" width="50" height="50" /></td>
+                <td><img src="@item.Hinhanh3" alt="Hình ảnh 3" width="50" height="50" /></td>
+                <td>
+                    <a asp-action="SuaSanPham" asp-route-Masp="@item.Masp">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Masp">Details</a> |
+                    <a asp-action="XoaSanPham" asp-route-Masp="@item.Masp">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="pagination">
+    @Html.PagedListPager(Model, page => Url.Action("DanhMucSanPham", new { page }))
+</div>
+
