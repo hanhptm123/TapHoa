@@ -807,3 +807,6 @@ C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\ref\TapHoa.dll
 C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\X.PagedList.dll
 C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
 C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cs
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\X.PagedList.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cs
