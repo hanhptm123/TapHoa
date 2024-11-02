@@ -8046,19 +8046,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hanh\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TapHoa_1\\TapHoa\\TapHoa\\TapHoa.csproj",
+      "projectUniqueName": "D:\\Taphoa\\TapHoa\\TapHoa.csproj",
       "projectName": "TapHoa",
-      "projectPath": "D:\\TapHoa_1\\TapHoa\\TapHoa\\TapHoa.csproj",
-      "packagesPath": "C:\\Users\\Hanh\\.nuget\\packages\\",
-      "outputPath": "D:\\TapHoa_1\\TapHoa\\TapHoa\\obj\\",
+      "projectPath": "D:\\Taphoa\\TapHoa\\TapHoa.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Taphoa\\TapHoa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8066,6 +8066,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8078,6 +8079,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8130,7 +8136,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
