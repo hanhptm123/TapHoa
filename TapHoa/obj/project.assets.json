@@ -2903,6 +2903,30 @@
             "rid": "win"
           }
         }
+      },
+      "X.PagedList/10.5.7": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/X.PagedList.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/X.PagedList.dll": {}
+        }
+      },
+      "X.PagedList.Mvc.Core/10.5.7": {
+        "type": "package",
+        "dependencies": {
+          "X.PagedList": "10.5.7"
+        },
+        "compile": {
+          "lib/net8.0/X.PagedList.Mvc.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/X.PagedList.Mvc.Core.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -8033,6 +8057,43 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "X.PagedList/10.5.7": {
+      "sha512": "Nevli+eaR3wMeb6pSNa+ApsddA9bw6Pl7wuX7B2nFj0v184RV/FtFRUckgNAaogGcmEiLXcsQX3ox0y164DnHg==",
+      "type": "package",
+      "path": "x.pagedlist/10.5.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net481/X.PagedList.dll",
+        "lib/net6.0/X.PagedList.dll",
+        "lib/net7.0/X.PagedList.dll",
+        "lib/net8.0/X.PagedList.dll",
+        "lib/netstandard2.0/X.PagedList.dll",
+        "lib/netstandard2.1/X.PagedList.dll",
+        "x-pagedlist.png",
+        "x.pagedlist.10.5.7.nupkg.sha512",
+        "x.pagedlist.nuspec"
+      ]
+    },
+    "X.PagedList.Mvc.Core/10.5.7": {
+      "sha512": "YuQEz9Y2AC8oaYk6yBISRxSpKuUEYLwoDpjimump8O+v4B2vZcigWQ6nEYE9blwmKLV0xGLy0S2zlbicvKCyPg==",
+      "type": "package",
+      "path": "x.pagedlist.mvc.core/10.5.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net6.0/X.PagedList.Mvc.Core.dll",
+        "lib/net7.0/X.PagedList.Mvc.Core.dll",
+        "lib/net8.0/X.PagedList.Mvc.Core.dll",
+        "x-pagedlist.png",
+        "x.pagedlist.mvc.core.10.5.7.nupkg.sha512",
+        "x.pagedlist.mvc.core.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -8042,44 +8103,24 @@
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.10",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.6"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.6",
+      "X.PagedList.Mvc.Core >= 10.5.7"
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Admin\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
->>>>>>> 713d3140c74db1eea258a78652301fd1c47cd2ea
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\Taphoa\\TapHoa\\TapHoa.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\TAPHOA1\\TapHoa\\TapHoa.csproj",
       "projectName": "TapHoa",
-      "projectPath": "D:\\Taphoa\\TapHoa\\TapHoa.csproj",
+      "projectPath": "C:\\Users\\Admin\\Source\\Repos\\TAPHOA1\\TapHoa\\TapHoa.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Taphoa\\TapHoa\\obj\\",
-=======
-      "projectUniqueName": "C:\\ĐỒ ÁN\\TapHoa\\TapHoa\\TapHoa.csproj",
-      "projectName": "TapHoa",
-      "projectPath": "C:\\ĐỒ ÁN\\TapHoa\\TapHoa\\TapHoa.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\ĐỒ ÁN\\TapHoa\\TapHoa\\obj\\",
->>>>>>> 713d3140c74db1eea258a78652301fd1c47cd2ea
+      "outputPath": "C:\\Users\\Admin\\Source\\Repos\\TAPHOA1\\TapHoa\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> 713d3140c74db1eea258a78652301fd1c47cd2ea
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8136,6 +8177,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[8.0.6, )"
+          },
+          "X.PagedList.Mvc.Core": {
+            "target": "Package",
+            "version": "[10.5.7, )"
           }
         },
         "imports": [
