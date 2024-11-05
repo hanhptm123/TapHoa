@@ -190,11 +190,6 @@ namespace TapHoa.Controllers
             return View();
         }
 
-
-
-
-
-
         [HttpPost]
         public IActionResult Register(string Tendangnhap, string Matkhau, string Chucvu)
         {

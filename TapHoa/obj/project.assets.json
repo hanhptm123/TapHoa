@@ -8108,19 +8108,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hanh\\.nuget\\packages\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TapHoa_1\\TapHoa\\TapHoa\\TapHoa.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Downloads\\Documents\\Code\\TapHoa\\TapHoa\\TapHoa.csproj",
       "projectName": "TapHoa",
-      "projectPath": "D:\\TapHoa_1\\TapHoa\\TapHoa\\TapHoa.csproj",
-      "packagesPath": "C:\\Users\\Hanh\\.nuget\\packages\\",
-      "outputPath": "D:\\TapHoa_1\\TapHoa\\TapHoa\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Downloads\\Documents\\Code\\TapHoa\\TapHoa\\TapHoa.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Downloads\\Documents\\Code\\TapHoa\\TapHoa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8196,7 +8196,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
