@@ -44,5 +44,48 @@ namespace TapHoa.Areas.Admin.Controllers
             }
             return View(nhaCc);
         }
+        [Route("SuaNhacc")]
+        [HttpGet]
+        public IActionResult SuaNhacc(int Mancc)
+        {
+            var nhaCc = _context.Nhacungcaps.Find(Mancc);
+            return View(nhaCc);
+        }
+        [Route("SuaNhacc")]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult SuaNhacc(Nhacungcap nhaCc)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Update(nhaCc);
+                _context.SaveChanges();
+                return RedirectToAction("DanhMucNhacc");
+            }
+            return View(nhaCc);
+        }
+        [Route("XoaNhacc")]
+        [HttpGet]
+        public IActionResult XoaNhacc(int Mancc)
+        {
+            var nhaCc = _context.Nhacungcaps.Find(Mancc);
+
+            if (nhaCc == null)
+            {
+                return NotFound();
+            }
+
+            var hasRelatedRecords = _context.Sanphams.Any(ct => ct.Mancc == Mancc);
+            if (hasRelatedRecords)
+            {
+                TempData["ErrorMessage"] = "Không thể xóa sản phẩm vì có bản ghi liên quan.";
+                return RedirectToAction("DanhMucNhacc");
+            }
+
+            _context.Nhacungcaps.Remove(nhaCc);
+            _context.SaveChanges();
+
+            return RedirectToAction("DanhMucNhacc");
+        }
     }
 }

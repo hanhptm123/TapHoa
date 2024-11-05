@@ -43,5 +43,49 @@ namespace TapHoa.Areas.Admin.Controllers
             }
             return View(TH);
         }
+        
+        [Route("SuaTH")]
+        [HttpGet]
+        public IActionResult SuaTH(int Mathuonghieu)
+        {
+            var TH = _context.Thuonghieus.Find(Mathuonghieu);
+            return View(TH);
+        }
+        [Route("SuaTH")]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult SuaTH(Thuonghieu TH)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Update(TH);
+                _context.SaveChanges();
+                return RedirectToAction("DanhMucTH");
+            }
+            return View(TH);
+        }
+        [Route("XoaTH")]
+        [HttpGet]
+        public IActionResult XoaTH(int Mathuonghieu)
+        {
+            var TH = _context.Thuonghieus.Find(Mathuonghieu);
+
+            if (TH == null)
+            {
+                return NotFound();
+            }
+
+            var hasRelatedRecords = _context.Sanphams.Any(ct => ct.Math == Mathuonghieu);
+            if (hasRelatedRecords)
+            {
+                TempData["ErrorMessage"] = "Không thể xóa thương hiệu vì có bản ghi liên quan.";
+                return RedirectToAction("DanhMucTH");
+            }
+
+            _context.Thuonghieus.Remove(TH);
+            _context.SaveChanges();
+
+            return RedirectToAction("DanhMucTH");
+        }
     }
 }

@@ -8113,11 +8113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Downloads\\Documents\\Code\\TapHoa\\TapHoa\\TapHoa.csproj",
+      "projectUniqueName": "C:\\TapHoa\\TapHoa\\TapHoa.csproj",
       "projectName": "TapHoa",
-      "projectPath": "C:\\Users\\Asus\\Downloads\\Documents\\Code\\TapHoa\\TapHoa\\TapHoa.csproj",
+      "projectPath": "C:\\TapHoa\\TapHoa\\TapHoa.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Downloads\\Documents\\Code\\TapHoa\\TapHoa\\obj\\",
+      "outputPath": "C:\\TapHoa\\TapHoa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8128,6 +8128,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8140,6 +8141,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8196,7 +8202,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

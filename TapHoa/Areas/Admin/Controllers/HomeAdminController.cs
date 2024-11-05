@@ -137,6 +137,64 @@ namespace TapHoa.Areas.Admin.Controllers
             }
             return View(lSanPham);
         }
+        [Route("SuaLoai")]
+        [HttpGet]
+        public IActionResult SuaLoai(int Maloaisp)
+        {
+            var lSanPham = _context.Loaisps.Find(Maloaisp);
+
+            if (lSanPham == null)
+            {
+                return NotFound(); 
+            }
+
+            return View(lSanPham);
+        }
+
+        [Route("SuaLoai")]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult SuaLoai([Bind("Maloaisp,Tenloaisp")] Loaisp lSanPham)
+        {
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    _context.Update(lSanPham);
+                    _context.SaveChanges();
+                    return RedirectToAction("DanhMucLoaiSanPham", "HomeAdmin");
+                }
+                catch (Exception ex)
+                {
+                    ModelState.AddModelError("", "Có lỗi xảy ra khi lưu dữ liệu: " + ex.Message);
+                }
+            }
+            return View(lSanPham);
+        }
+        [Route("XoaLoai")]
+        [HttpGet]
+        public IActionResult XoaLoai(int Maloaisp)
+        {
+            var lSanPham = _context.Loaisps.Find(Maloaisp);
+
+            if (lSanPham == null)
+            {
+                return NotFound();
+            }
+
+            var hasRelatedRecords = _context.Sanphams.Any(ct => ct.Maloaisp == Maloaisp);
+            if (hasRelatedRecords)
+            {
+                TempData["ErrorMessage"] = "Không thể xóa loại sản phẩm vì có bản ghi liên quan.";
+                return RedirectToAction("DanhMucLoaiSanPham", "HomeAdmin");
+            }
+
+            _context.Loaisps.Remove(lSanPham);
+            _context.SaveChanges();
+
+            return RedirectToAction("DanhMucLoaiSanPham", "HomeAdmin");
+        }
+
 
     }
 }

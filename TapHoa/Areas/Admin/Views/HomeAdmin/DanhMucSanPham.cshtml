@@ -7,12 +7,12 @@
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h3>Danh mục các sản phẩm</h3>
+<h3>Product list</h3>
 <p>
     @TempData["Message"] 
 </p>
 <p>
-    <a asp-action="ThemSanPhamMoi">Tạo mới</a>
+    <a asp-action="ThemSanPhamMoi">Create</a>
 </p>
 
 <table class="table">
@@ -53,7 +53,6 @@
                 <td><img src="@item.Hinhanh3" alt="Hình ảnh 3" width="50" height="50" /></td>
                 <td>
                     <a asp-action="SuaSanPham" asp-route-Masp="@item.Masp">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Masp">Details</a> |
                     <a asp-action="XoaSanPham" asp-route-Masp="@item.Masp">Delete</a>
                 </td>
             </tr>

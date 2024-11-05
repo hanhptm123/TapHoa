@@ -5,7 +5,7 @@
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h3>Thêm sản phẩm mới</h3>
+<h3>Add product</h3>
 
 <hr />
 <div class="row">
@@ -13,69 +13,69 @@
         <form  method="post"asp-action="ThemSanPhamMoi">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Maloaisp" class="control-label"></label>
+                <label asp-for="Maloaisp" class="control-label">Category product</label>
                 <select asp-for="Maloaisp" class ="form-control" asp-items="ViewBag.Maloaisp"></select>
             </div>
             <div class="form-group">
-                <label asp-for="Makm" class="control-label"></label>
+                <label asp-for="Makm" class="control-label">Promotion</label>
                 <select asp-for="Makm" class ="form-control" asp-items="ViewBag.Makm"></select>
             </div>
             <div class="form-group">
-                <label asp-for="Mancc" class="control-label"></label>
+                <label asp-for="Mancc" class="control-label">Supplier name</label>
                 <select asp-for="Mancc" class ="form-control" asp-items="ViewBag.Mancc"></select>
             </div>
             <div class="form-group">
-                <label asp-for="Math" class="control-label"></label>
+                <label asp-for="Math" class="control-label">Brand</label>
                 <select asp-for="Math" class ="form-control" asp-items="ViewBag.Math"></select>
             </div>
             <div class="form-group">
-                <label asp-for="Tensp" class="control-label">Tên sản phẩm</label>
+                <label asp-for="Tensp" class="control-label">Product name</label>
                 <input asp-for="Tensp" class="form-control" />
                 <span asp-validation-for="Tensp" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Mota" class="control-label">Mô tả</label>
+                <label asp-for="Mota" class="control-label">Description</label>
                 <input asp-for="Mota" class="form-control" />
                 <span asp-validation-for="Mota" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Soluong" class="control-label">Số lượng</label>
+                <label asp-for="Soluong" class="control-label">Quantity</label>
                 <input asp-for="Soluong" class="form-control" />
                 <span asp-validation-for="Soluong" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Gia" class="control-label">Giá</label>
+                <label asp-for="Gia" class="control-label">Cost</label>
                 <input asp-for="Gia" class="form-control" />
                 <span asp-validation-for="Gia" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Hinhanh" class="control-label">Hình ảnh</label>
+                <label asp-for="Hinhanh" class="control-label">Image</label>
                 <input asp-for="Hinhanh" class="form-control" />
                 <span asp-validation-for="Hinhanh" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Hinhanh1" class="control-label">Hình ảnh 1</label>
+                <label asp-for="Hinhanh1" class="control-label">Image 1</label>
                 <input asp-for="Hinhanh1" class="form-control" />
                 <span asp-validation-for="Hinhanh1" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Hinhanh2" class="control-label">Hình ảnh 2</label>
+                <label asp-for="Hinhanh2" class="control-label">Image 2</label>
                 <input asp-for="Hinhanh2" class="form-control" />
                 <span asp-validation-for="Hinhanh2" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Hinhanh3" class="control-label">Hình ảnh 3</label>
+                <label asp-for="Hinhanh3" class="control-label">Image 3</label>
                 <input asp-for="Hinhanh3" class="form-control" />
                 <span asp-validation-for="Hinhanh3" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Tạo" class="btn btn-primary" />
+                <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="DanhMucSanPham">Trở về</a>
+    <a asp-action="DanhMucSanPham">Go back</a>
 </div>
 
