@@ -4,30 +4,40 @@
     ViewData["Title"] = "DanhMucNhacc";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
-
-<h1>DanhMucNhacc</h1>
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+<h3>Supplier category</h3>
 
 <p>
-    <a asp-action="ThemNcc">Tạo mới</a>
+    <a asp-action="ThemNcc">Create</a>
 </p>
 <table class="table">
     <thead>
         <tr>
             <th>
-                Tên nhà cung cấp
+                Supplier name
             </th>
             <th></th>
         </tr>
     </thead>
     <tbody>
+        @{
+            int i = 0;
+            string cls = "table-success";
+        }
 @foreach (var item in Model) {
-        <tr>
+            cls = "table-success";
+            i++;
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+        <tr class="@cls">
             <td>
                 @Html.DisplayFor(modelItem => item.Tenncc)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Mancc">Edit</a> |
-                <a asp-action="Delete" asp-route-id="@item.Mancc">Delete</a>
+                <a asp-action="SuaNhacc" asp-route-Mancc="@item.Mancc">Edit</a> |
+                <a asp-action="XoaNhacc" asp-route-Mancc="@item.Mancc">Delete</a>
             </td>
         </tr>
 }
