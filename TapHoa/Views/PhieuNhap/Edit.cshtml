@@ -1,0 +1,138 @@
+﻿@model TapHoa.Data.Phieunhap
+
+@{
+    ViewData["Title"] = "Edit Import Slip";
+}
+
+<h2 class="text-center">Edit Import Slip</h2>
+
+<form asp-action="Edit" method="post">
+    <div class="form-group">
+        <label asp-for="Manv" class="control-label">Employee</label>
+        @Html.DropDownListFor(model => model.Manv, (SelectList)ViewBag.ManvList, "Select an Employee", new { @class = "form-control" })
+        <span asp-validation-for="Manv" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Ngaynhap" class="control-label">Entry Date</label>
+        <input asp-for="Ngaynhap" class="form-control" readonly />
+        <span asp-validation-for="Ngaynhap" class="text-danger"></span>
+    </div>
+
+    <h4 class="mt-4">Product Details</h4>
+    <table class="table table-bordered table-striped" id="productTable">
+        <thead class="thead-light">
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < ViewBag.CtPhieuNhaps.Count; i++)
+            {
+                var ctPhieuNhaps = ViewBag.CtPhieuNhaps[i];
+                <tr>
+                    <td>
+                        @Html.DropDownList($"Ctphieunhap[{i}].Masp", (SelectList)ViewBag.MaspList, "Select a Product", new { @class = "form-control", onchange = $"updatePrice({i})" })
+                    </td>
+                    <td>
+                        <input name="Ctphieunhap[${i}].Soluong" type="number" class="form-control" value="@ctPhieuNhaps.Soluong" min="1" onchange="calculateTotal(${i})" />
+                    </td>
+                    <td>
+                        <input id="Gia${i}" class="form-control" readonly value="@ctPhieuNhaps.Thanhtien/@ctPhieuNhaps.Soluong" />
+                    </td>
+                    <td>
+                        <input id="Tongtien${i}" class="form-control" readonly value="@ctPhieuNhaps.Thanhtien" />
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-danger" onclick="removeRow(this)">Remove</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="form-group">
+        <label class="control-label">Grand Total:</label>
+        <input id="GrandTotal" class="form-control" readonly />
+    </div>
+
+    <div class="d-flex justify-content-between">
+        <button type="button" class="btn btn-primary" onclick="addRow()">Add Product</button>
+        <button type="submit" class="btn btn-success">Update</button>
+    </div>
+    <a asp-action="Index" class="btn btn-secondary mt-2">Cancel</a>
+</form>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+
+    <script>
+        const productPrices = @Html.Raw(Json.Serialize(ViewBag.ProductPrices));
+
+        function updatePrice(rowIndex) {
+            const masp = document.querySelector(`#productTable tbody tr:nth-child(${rowIndex + 1}) select`).value;
+            const price = productPrices[masp] || 0;
+            document.getElementById(`Gia${rowIndex}`).value = price;
+            calculateTotal(rowIndex);
+            updateGrandTotal();
+        }
+
+        function calculateTotal(rowIndex) {
+            const gia = parseFloat(document.getElementById(`Gia${rowIndex}`).value) || 0;
+            const soluong = parseInt(document.querySelector(`#productTable tbody tr:nth-child(${rowIndex + 1}) input[name="Ctphieunhap[${rowIndex}].Soluong"]`).value) || 0;
+            document.getElementById(`Tongtien${rowIndex}`).value = (gia * soluong).toFixed(2);
+            updateGrandTotal();
+        }
+
+        function addRow() {
+            const table = document.getElementById('productTable').getElementsByTagName('tbody')[0];
+            const newRow = table.insertRow();
+            newRow.innerHTML = `
+                        <td>
+                            <select name="Ctphieunhap[${rowCount}].Masp" class="form-control" onchange="updatePrice(${rowCount})">
+                                <option value="">Select a Product</option>
+        @foreach (var item in ViewBag.MaspList)
+        {
+                                        <option value="@item.Value">@item.Text</option>
+        }
+                            </select>
+                        </td>
+                        <td>
+                            <input name="Ctphieunhap[${rowCount}].Soluong" type="number" class="form-control" value="1" min="1" onchange="calculateTotal(${rowCount})" />
+                        </td>
+                        <td>
+                            <input id="Gia${rowCount}" class="form-control" readonly />
+                        </td>
+                        <td>
+                            <input id="Tongtien${rowCount}" class="form-control" readonly />
+                        </td>
+                        <td>
+                            <button type="button" class="btn btn-danger" onclick="removeRow(this)">Remove</button>
+                        </td>`;
+            rowCount++;
+        }
+
+        function removeRow(button) {
+            const row = button.parentElement.parentElement;
+            row.parentElement.removeChild(row);
+            updateGrandTotal();
+        }
+
+        function updateGrandTotal() {
+            let grandTotal = 0; 
+            const totalInputs = document.querySelectorAll('input[id^="Tongtien"]');
+            totalInputs.forEach(input => {
+                grandTotal += parseFloat(input.value) || 0;
+            });
+            document.getElementById('GrandTotal').value = grandTotal.toFixed(2);
+        }
+    </script>
+}
+
+<style>
+    /* Add any custom styles you need */
+</style>

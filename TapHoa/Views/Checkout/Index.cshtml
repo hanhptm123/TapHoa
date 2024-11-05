@@ -1,0 +1,67 @@
+﻿@model List<TapHoa.Models.Cartitem>
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<h2>Checkout</h2>
+
+<form asp-action="PlaceOrder" method="post">
+    <div>
+        <h3>Thông tin khách hàng</h3>
+        <label>Họ tên:</label>
+        <input type="text" name="tenkh" required />
+
+        <label>Địa chỉ:</label>
+        <input type="text" name="diachi" required />
+
+        <label>Số điện thoại:</label>
+        <input type="text" name="sdt" required />
+    </div>
+
+    <div>
+        <h3>Phương thức thanh toán</h3>
+        <select name="mapttt" required>
+            @foreach (var pttt in ViewBag.PhuongThucThanhToan)
+            {
+                <option value="@pttt.Mapttt">@pttt.Tenpttt</option>
+            }
+        </select>
+    </div>
+
+    <div>
+        <h3>Phương thức vận chuyển</h3>
+        <select name="maptvc" required>
+            @foreach (var ptvc in ViewBag.PhuongThucVanChuyen)
+            {
+                <option value="@ptvc.Maptvc">@ptvc.Tenptvc</option>
+            }
+        </select>
+    </div>
+
+    <h3>Chi tiết giỏ hàng</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Tên sản phẩm</th>
+                <th>Đơn giá</th>
+                <th>Số lượng</th>
+                <th>Thành tiền</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Tensanpham</td>
+                    <td>@item.Giasaugiam.ToString("C")</td>
+                    <td>@item.Soluong</td>
+                    <td>@(item.Giasaugiam * item.Soluong).ToString("C")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3>Tổng tiền: @ViewBag.TotalAmount.ToString("C")</h3>
+
+    <button type="submit">Đặt hàng</button>
+</form>

@@ -1,0 +1,130 @@
+﻿@model IEnumerable<TapHoa.Data.Phieunhap>
+
+@{
+    ViewData["Title"] = "Danh sách Phiếu nhập";
+}
+
+<h2 class="title">@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Thêm Phiếu nhập mới</a>
+</p>
+
+<table class="table table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>Mã Phiếu nhập</th>
+            <th>Nhân viên</th>
+            <th>Ngày nhập</th>
+            <th>Tổng tiền</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Mapn</td>
+                <td>@item.ManvNavigation?.Tennv</td>
+                <td>@item.Ngaynhap.ToString("dd/MM/yyyy")</td>
+                <td>@item.Tongtien.ToString("C")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Mapn" class="btn btn-warning btn-sm">Sửa</a>
+                    <a asp-action="Delete" asp-route-id="@item.Mapn" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    /* Basic Reset */
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f8f9fa;
+        color: #343a40;
+        padding: 30px;
+    }
+
+    h2.title {
+        margin-bottom: 20px;
+        color: #007bff;
+        text-align: center;
+        font-size: 32px;
+        border-bottom: 2px solid #007bff;
+        padding-bottom: 10px;
+    }
+
+    .table {
+        width: 100%;
+        margin-bottom: 1rem;
+        color: #343a40;
+        background-color: #ffffff;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #f1f1f1;
+    }
+
+    .thead-dark th {
+        background-color: #343a40;
+        color: #ffffff;
+    }
+
+    th, td {
+        padding: 12px;
+        text-align: left;
+        border-bottom: 1px solid #dee2e6;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        color: #ffffff;
+        transition: background-color 0.3s;
+        text-align: center;
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #004085;
+    }
+
+    .btn-sm {
+        padding: 5px 10px;
+        font-size: 0.875rem;
+        line-height: 1.5;
+        border-radius: 0.2rem;
+        transition: background-color 0.3s;
+    }
+
+    .btn-warning {
+        background-color: #ffc107;
+        border-color: #ffc107;
+        color: #212529;
+    }
+
+    .btn-warning:hover {
+        background-color: #e0a800;
+        border-color: #d39e00;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+        border-color: #dc3545;
+        color: #ffffff;
+    }
+
+    .btn-danger:hover {
+        background-color: #c82333;
+        border-color: #bd2130;
+    }
+</style>
