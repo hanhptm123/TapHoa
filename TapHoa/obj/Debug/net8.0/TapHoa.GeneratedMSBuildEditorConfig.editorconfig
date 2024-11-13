@@ -17,299 +17,299 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TapHoa
 build_property.RootNamespace = TapHoa
-build_property.ProjectDir = C:\TapHoa\TapHoa\
+build_property.ProjectDir = C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\TapHoa\TapHoa
+build_property.MSBuildProjectDirectory = C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/DanhMucLoaiSanPham.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/DanhMucLoaiSanPham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNMb2FpU2FuUGhhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/DanhMucSanPham.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/DanhMucSanPham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNTYW5QaGFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/SuaLoai.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/SuaLoai.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YUxvYWkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/SuaSanPham.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/SuaSanPham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YVNhblBoYW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/ThemLoai.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/ThemLoai.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1Mb2FpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/ThemSanPhamMoi.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/HomeAdmin/ThemSanPhamMoi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1TYW5QaGFtTW9pLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/Nhacc/DanhMucNhacc.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/Nhacc/DanhMucNhacc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhY2NcRGFuaE11Y05oYWNjLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/Nhacc/SuaNhacc.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/Nhacc/SuaNhacc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhY2NcU3VhTmhhY2MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/Nhacc/ThemNcc.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/Nhacc/ThemNcc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhY2NcVGhlbU5jYy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/ThuongHieu/DanhMucThuongHieu.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/ThuongHieu/DanhMucThuongHieu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGh1b25nSGlldVxEYW5oTXVjVGh1b25nSGlldS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/ThuongHieu/SuaTH.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/ThuongHieu/SuaTH.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGh1b25nSGlldVxTdWFUSC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Areas/Admin/Views/ThuongHieu/ThemTH.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Areas/Admin/Views/ThuongHieu/ThemTH.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGh1b25nSGlldVxUaGVtVEguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/CartItem/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/CartItem/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydEl0ZW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Checkout/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Checkout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Checkout/Success.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Checkout/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcU3VjY2Vzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/DonDatHang/Details.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/DonDatHang/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uRGF0SGFuZ1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/DonDatHang/EditStatus.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/DonDatHang/EditStatus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uRGF0SGFuZ1xFZGl0U3RhdHVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/DonDatHang/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/DonDatHang/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uRGF0SGFuZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Home/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Home/Privacy.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Khuyenmais/Create.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Khuyenmais/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2h1eWVubWFpc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Khuyenmais/Delete.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Khuyenmais/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2h1eWVubWFpc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Khuyenmais/Details.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Khuyenmais/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2h1eWVubWFpc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Khuyenmais/Edit.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Khuyenmais/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2h1eWVubWFpc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Khuyenmais/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Khuyenmais/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2h1eWVubWFpc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Loaisps/Create.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Loaisps/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNwc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Loaisps/Delete.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Loaisps/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNwc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Loaisps/Details.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Loaisps/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNwc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Loaisps/Edit.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Loaisps/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNwc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Loaisps/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Loaisps/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haXNwc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Nhacungcaps/Create.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Nhacungcaps/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhY3VuZ2NhcHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Nhacungcaps/Delete.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Nhacungcaps/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhY3VuZ2NhcHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Nhacungcaps/Details.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Nhacungcaps/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhY3VuZ2NhcHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Nhacungcaps/Edit.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Nhacungcaps/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhY3VuZ2NhcHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Nhacungcaps/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Nhacungcaps/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhY3VuZ2NhcHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/PhieuNhap/Create.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/PhieuNhap/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVOaGFwXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/PhieuNhap/Delete.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/PhieuNhap/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVOaGFwXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/PhieuNhap/Detail.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/PhieuNhap/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVOaGFwXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/PhieuNhap/Edit.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/PhieuNhap/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVOaGFwXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/PhieuNhap/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/PhieuNhap/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpZXVOaGFwXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Sanphams/Create.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Sanphams/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FucGhhbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Sanphams/Danhsachsp.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Sanphams/Danhsachsp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FucGhhbXNcRGFuaHNhY2hzcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Sanphams/Delete.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Sanphams/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FucGhhbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Sanphams/Details.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Sanphams/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FucGhhbXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Sanphams/Edit.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Sanphams/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FucGhhbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Sanphams/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Sanphams/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FucGhhbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Shared/Components/Categories/Default.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Shared/Components/Categories/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Shared/Components/Discount/Default.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Shared/Components/Discount/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGlzY291bnRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Shared/Error.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Shared/Shop.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Shared/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNob3AuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Shared/_Footer.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Shared/_Header.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Shared/_Login.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Shared/_Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Shared/_User.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Shared/_User.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Taikhoans/Create.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Taikhoans/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpa2hvYW5zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Taikhoans/Delete.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Taikhoans/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpa2hvYW5zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Taikhoans/Details.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Taikhoans/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpa2hvYW5zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Taikhoans/Edit.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Taikhoans/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpa2hvYW5zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Taikhoans/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Taikhoans/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpa2hvYW5zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Taikhoans/Login.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Taikhoans/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpa2hvYW5zXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Taikhoans/Register.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Taikhoans/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFpa2hvYW5zXFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Thuonghieux/Create.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Thuonghieux/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25naGlldXhcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Thuonghieux/Delete.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Thuonghieux/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25naGlldXhcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Thuonghieux/Details.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Thuonghieux/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25naGlldXhcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Thuonghieux/Edit.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Thuonghieux/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25naGlldXhcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Thuonghieux/Index.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Thuonghieux/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh1b25naGlldXhcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/_ViewImports.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/_ViewStart.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/TapHoa/TapHoa/Views/Shared/_Layout.cshtml]
+[C:/ĐỒ ÁN/TapHoa0/TapHoa/TapHoa/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yyuv0cokcv

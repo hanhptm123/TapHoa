@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TapHoa\\TapHoa\\TapHoa.csproj": {}
+    "C:\\ĐỒ ÁN\\TapHoa0\\TapHoa\\TapHoa\\TapHoa.csproj": {}
   },
   "projects": {
-    "C:\\TapHoa\\TapHoa\\TapHoa.csproj": {
+    "C:\\ĐỒ ÁN\\TapHoa0\\TapHoa\\TapHoa\\TapHoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TapHoa\\TapHoa\\TapHoa.csproj",
+        "projectUniqueName": "C:\\ĐỒ ÁN\\TapHoa0\\TapHoa\\TapHoa\\TapHoa.csproj",
         "projectName": "TapHoa",
-        "projectPath": "C:\\TapHoa\\TapHoa\\TapHoa.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\TapHoa\\TapHoa\\obj\\",
+        "projectPath": "C:\\ĐỒ ÁN\\TapHoa0\\TapHoa\\TapHoa\\TapHoa.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\ĐỒ ÁN\\TapHoa0\\TapHoa\\TapHoa\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -35,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -96,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
