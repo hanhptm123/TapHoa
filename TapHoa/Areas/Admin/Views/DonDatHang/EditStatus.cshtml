@@ -2,7 +2,9 @@
 
 @{
     ViewData["Title"] = "Edit Order Status";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
 
 <h2 class="title">@ViewData["Title"]</h2>
 
@@ -72,11 +74,11 @@
         transition: border-color 0.3s;
     }
 
-    .custom-select:focus {
-        border-color: #80bdff;
-        outline: 0;
-        box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
-    }
+        .custom-select:focus {
+            border-color: #80bdff;
+            outline: 0;
+            box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
+        }
 
     .btn {
         display: inline-block;
@@ -94,10 +96,10 @@
         color: #fff;
     }
 
-    .btn-primary:hover {
-        background-color: #0056b3;
-        border-color: #004085;
-    }
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #004085;
+        }
 
     .btn-secondary {
         background-color: #6c757d;
@@ -106,8 +108,8 @@
         margin-left: 10px;
     }
 
-    .btn-secondary:hover {
-        background-color: #5a6268;
-        border-color: #545b62;
-    }
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            border-color: #545b62;
+        }
 </style>

@@ -6,6 +6,9 @@ using TapHoa.Data;
 
 namespace TapHoa.Controllers
 {
+    [Area("admin")]
+    [Route("admin")]
+    [Route("admin/phieunhap")]
     public class PhieuNhapController : Controller
     {
         private readonly TaphoaContext _context;
@@ -15,82 +18,73 @@ namespace TapHoa.Controllers
             _context = context;
         }
 
-        // GET: Phieunhap
+        private void LoadViewBags(int? selectedManv = null)
+        {
+            ViewBag.ManvList = new SelectList(_context.Nhanviens, "Manv", "Tennv", selectedManv);
+            ViewBag.MaspList = new SelectList(_context.Sanphams, "Masp", "Tensp");
+            ViewBag.ProductPrices = _context.Sanphams.ToDictionary(p => p.Masp, p => p.Gia);
+        }
+
+        [Route("Index")]
         public async Task<IActionResult> Index()
         {
             var phieunhaps = _context.Phieunhaps.Include(p => p.ManvNavigation);
             return View(await phieunhaps.ToListAsync());
         }
 
-        // GET: Phieunhap/Create
+        [Route("Create")]
         public IActionResult Create()
         {
-            ViewBag.ManvList = new SelectList(_context.Nhanviens, "Manv", "Tennv");
-            ViewBag.MaspList = new SelectList(_context.Sanphams, "Masp", "Tensp"); // List of products
-            ViewBag.ProductPrices = _context.Sanphams.ToDictionary(p => p.Masp, p => p.Gia); // Dictionary of product prices
+            LoadViewBags();
             var phieuNhap = new Phieunhap
             {
-                Ngaynhap = DateTime.Now // Set the current date
+                Ngaynhap = DateTime.Now
             };
             return View(phieuNhap);
         }
 
-        // POST: Phieunhap/Create
         [HttpPost]
+        [Route("Create")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Phieunhap phieunhap, List<Ctphieunhap> ctPhieuNhaps)
         {
             if (ModelState.IsValid)
             {
-                // Initialize the total amount
-                phieunhap.Tongtien = 0;
+                phieunhap.Tongtien = phieunhap.Tongtien;
 
-                // Calculate total and prepare details
                 foreach (var ct in ctPhieuNhaps)
                 {
-                    // Find the product by its ID
                     var product = await _context.Sanphams.FindAsync(ct.Masp);
                     if (product != null)
                     {
-                        // Calculate total price for this detail
                         ct.Thanhtien = ct.Soluong * product.Gia;
-
-                        // Accumulate total amount
-                        phieunhap.Tongtien += ct.Thanhtien;
-
-                        // Set Mapn to the new Phieunhap's ID once it's saved
                         ct.Mapn = phieunhap.Mapn;
                     }
                     else
                     {
-                        // Handle the case where the product is not found (optional)
-                        ModelState.AddModelError("", $"Product with ID {ct.Masp} not found.");
+                        ModelState.AddModelError("", $"Không tìm thấy sản phẩm với ID {ct.Masp}.");
                     }
                 }
 
-                // Add Phieunhap to the context
                 _context.Phieunhaps.Add(phieunhap);
-                await _context.SaveChangesAsync(); // Save Phieunhap first
+                await _context.SaveChangesAsync();
 
-                // Now that we have the Mapn, add the details to the context
                 foreach (var ct in ctPhieuNhaps)
                 {
-                    ct.Mapn = phieunhap.Mapn; // Link the detail to the created Phieunhap
-                    _context.Ctphieunhaps.Add(ct); // Add detail
+                    ct.Mapn = phieunhap.Mapn;
                 }
-                await _context.SaveChangesAsync(); // Save Ctphieunhap records
+
+                _context.Ctphieunhaps.AddRange(ctPhieuNhaps);
+                await _context.SaveChangesAsync();
 
                 return RedirectToAction(nameof(Index));
             }
 
-            // Populate ViewBag again in case validation fails
-            ViewBag.ManvList = new SelectList(_context.Nhanviens, "Manv", "Tennv", phieunhap.Manv);
-            ViewBag.MaspList = new SelectList(_context.Sanphams, "Masp", "Tensp");
-            ViewBag.ProductPrices = _context.Sanphams.ToDictionary(p => p.Masp, p => p.Gia); // Repopulate product prices
+            LoadViewBags(phieunhap.Manv);
             return View(phieunhap);
         }
 
-        // GET: Phieunhap/Edit/{id}
+        [Route("Edit")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -99,7 +93,7 @@ namespace TapHoa.Controllers
             }
 
             var phieunhap = await _context.Phieunhaps
-                .Include(p => p.Ctphieunhaps) // Include related Ctphieunhap
+                .Include(p => p.Ctphieunhaps)
                 .FirstOrDefaultAsync(m => m.Mapn == id);
 
             if (phieunhap == null)
@@ -107,19 +101,14 @@ namespace TapHoa.Controllers
                 return NotFound();
             }
 
-            // Populate ViewBag for dropdowns
-            ViewBag.ManvList = new SelectList(_context.Nhanviens, "Manv", "TenNhanvien", phieunhap.Manv);
-            ViewBag.MaspList = new SelectList(_context.Sanphams, "Masp", "Tensp");
-            ViewBag.ProductPrices = _context.Sanphams.ToDictionary(p => p.Masp, p => p.Gia); // Product prices
-
-            // Prepare details for Ctphieunhap
+            LoadViewBags(phieunhap.Manv);
             ViewBag.CtPhieuNhaps = phieunhap.Ctphieunhaps.ToList();
 
             return View(phieunhap);
         }
 
-        // POST: Phieunhap/Edit/{id}
         [HttpPost]
+        [Route("Edit/{id?}")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, Phieunhap phieunhap, List<Ctphieunhap> ctPhieuNhaps)
         {
@@ -132,28 +121,24 @@ namespace TapHoa.Controllers
             {
                 try
                 {
-                    // Update the Phieunhap in the context
                     _context.Update(phieunhap);
-                    await _context.SaveChangesAsync(); // Save updated Phieunhap
+                    await _context.SaveChangesAsync();
 
-                    // Clear existing Ctphieunhap entries if you want to replace them
                     var existingCtPhieuNhaps = await _context.Ctphieunhaps.Where(c => c.Mapn == phieunhap.Mapn).ToListAsync();
                     _context.Ctphieunhaps.RemoveRange(existingCtPhieuNhaps);
 
-                    // Add updated details
                     foreach (var ct in ctPhieuNhaps)
                     {
                         var product = await _context.Sanphams.FindAsync(ct.Masp);
                         if (product != null)
                         {
-                            // Calculate the total price for this detail
                             ct.Thanhtien = ct.Soluong * product.Gia;
-                            ct.Mapn = phieunhap.Mapn; // Set the reference to the updated Phieunhap
-                            _context.Ctphieunhaps.Add(ct); // Add the detail
+                            ct.Mapn = phieunhap.Mapn;
+                            _context.Ctphieunhaps.Add(ct);
                         }
                     }
 
-                    await _context.SaveChangesAsync(); // Save updated Ctphieunhap records
+                    await _context.SaveChangesAsync();
 
                     return RedirectToAction(nameof(Index));
                 }
@@ -165,18 +150,17 @@ namespace TapHoa.Controllers
                     }
                     else
                     {
-                        throw; // Re-throw the exception for global handling
+                        throw;
                     }
                 }
             }
 
-            // Repopulate ViewBag in case of validation failure
-            ViewBag.ManvList = new SelectList(_context.Nhanviens, "Manv", "TenNhanvien", phieunhap.Manv);
-            ViewBag.CtPhieuNhaps = ctPhieuNhaps; // Repopulate the Ctphieunhap details
+            LoadViewBags(phieunhap.Manv);
+            ViewBag.CtPhieuNhaps = ctPhieuNhaps;
             return View(phieunhap);
         }
 
-        // GET: Phieunhap/Delete/{id}
+        [Route("Delete/{id?}")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -195,8 +179,8 @@ namespace TapHoa.Controllers
             return View(phieunhap);
         }
 
-        // POST: Phieunhap/Delete/{id}
         [HttpPost, ActionName("Delete")]
+        [Route("Delete/{id?}")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {

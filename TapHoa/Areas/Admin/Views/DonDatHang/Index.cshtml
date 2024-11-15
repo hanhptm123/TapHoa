@@ -1,5 +1,9 @@
 ﻿@model IEnumerable<TapHoa.Data.Dondathang>
-
+@{
+    ViewData["Title"] = "Order List ";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
 <h2 class="title">Danh Sách Đơn Đặt Hàng</h2>
 
 <table class="table table-hover">

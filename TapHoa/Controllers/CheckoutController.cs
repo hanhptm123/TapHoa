@@ -2,13 +2,16 @@
 using TapHoa.Data;
 using TapHoa.Helpers;
 using TapHoa.Models;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using System.Security.Claims;
+using System;
+
 
 namespace TapHoa.Controllers
 {
+    [Route("Checkout")]
     public class CheckoutController : Controller
     {
         private readonly TaphoaContext _context;
@@ -18,105 +21,114 @@ namespace TapHoa.Controllers
             _context = context;
         }
 
-        // Property to get the current cart from session
-        public List<Cartitem> Carts
-        {
-            get
-            {
-                var data = HttpContext.Session.Get<List<Cartitem>>("GioHang");
-                return data ?? new List<Cartitem>();
-            }
-        }
-
-        // Method to display the checkout page
+        [Route("Index")]
         public IActionResult Index()
         {
-            var cartItems = Carts;
-            double totalAmount = cartItems.Sum(item => item.Giasaugiam * item.Soluong);
-            ViewBag.TotalAmount = totalAmount;
+            var giohang = HttpContext.Session.Get<List<Cartitem>>("GioHang") ?? new List<Cartitem>();
 
-            // Get payment and shipping methods
-            ViewBag.PhuongThucThanhToan = _context.Phuongthucthanhtoans.ToList();
-            ViewBag.PhuongThucVanChuyen = _context.Phuongthucvanchuyens.ToList();
+            ViewBag.PaymentMethods = _context.Phuongthucthanhtoans.ToList();
+            ViewBag.ShippingOptions = _context.Phuongthucvanchuyens.ToList();
 
-            return View(cartItems); // Show checkout page with cart items
+            return View(giohang);
         }
 
-        // Method to process the checkout
         [HttpPost]
-        public IActionResult PlaceOrder(string tenkh, string diachi, string sdt, int mapttt, int maptvc)
+        [Route("PlaceOrder")]
+        public async Task<IActionResult> PlaceOrder(string tenkh, string diachi, string sdt, int maptvc, int maptth)
         {
-            var cartItems = Carts;
-            if (!cartItems.Any())
+            // Lấy mã tài khoản từ Claims
+            var matk = User.FindFirst("Matk")?.Value;
+            if (string.IsNullOrEmpty(matk))
             {
-                return RedirectToAction("Index", "CartItem"); // Redirect if cart is empty
+                return Unauthorized(); // Nếu không tìm thấy Matk trong Claims, trả về Unauthorized
             }
 
-            using var transaction = _context.Database.BeginTransaction();
-            try
+            // Chuyển Matk từ string sang int
+            int matkInt;
+            if (!int.TryParse(matk, out matkInt))
             {
-                // Create new order (Dondathang)
-                var dondathang = new Dondathang
-                {
+                return Unauthorized(); // Nếu không thể chuyển đổi Matk thành int, trả về Unauthorized
+            }
 
-                    Tenkh = tenkh,
-                    Diachi = diachi,
-                    Sdt = sdt,
-                    Ngaydat = DateTime.Now,
-                    Tonggia = (decimal)cartItems.Sum(item => item.Giasaugiam * item.Soluong),
-                    Makh = 1, // Assign user ID (assuming 1 for demo; update as needed)
-                    Maptvc = maptvc, // Save the shipping method
-                    Mattddh = 1 // Set the initial status of the order (e.g., 1 = pending)
+            // Truy xuất tài khoản từ cơ sở dữ liệu bằng Matk
+            var taikhoan = await _context.Taikhoans
+                .FirstOrDefaultAsync(tk => tk.Matk == matkInt);
+
+            if (taikhoan == null)
+            {
+                ModelState.AddModelError("", "Không tìm thấy tài khoản.");
+                return RedirectToAction("Index", "Cart");
+            }
+
+            // Truy xuất khách hàng từ Matk
+            var khachhang = await _context.Khachhangs
+                .FirstOrDefaultAsync(kh => kh.Matk == taikhoan.Matk);
+
+            if (khachhang == null)
+            {
+                ModelState.AddModelError("", "Không tìm thấy thông tin khách hàng.");
+                return RedirectToAction("Index", "Cart");
+            }
+
+            // Lấy giỏ hàng từ session
+            var giohang = HttpContext.Session.Get<List<Cartitem>>("GioHang");
+            if (giohang == null || !giohang.Any())
+            {
+                ModelState.AddModelError("", "Giỏ hàng của bạn đang trống.");
+                return RedirectToAction("Index", "Cart");
+            }
+
+            // Tạo mới đơn đặt hàng
+            var donDatHang = new Dondathang
+            {
+                Tenkh = tenkh,
+                Diachi = diachi,
+                Sdt = sdt,
+                Ngaydat = DateTime.Now,
+                Maptvc = maptvc,
+                Tonggia = giohang.Sum(item => (decimal)item.Giasaugiam * item.Soluong),
+                Makh = khachhang.Makh, // Gán mã khách hàng vào đơn đặt hàng
+                Mattddh = 1 // Trạng thái đơn mặc định là "đang chờ xử lý"
+            };
+
+            _context.Dondathangs.Add(donDatHang);
+            await _context.SaveChangesAsync();
+
+            // Thêm chi tiết đơn đặt hàng cho từng sản phẩm trong giỏ
+            foreach (var item in giohang)
+            {
+                var chiTiet = new Chitietdondathang
+                {
+                    Maddh = donDatHang.Maddh,
+                    Masp = item.Masanpham,
+                    Soluong = item.Soluong,
+                    Thanhtien = (decimal)item.Giasaugiam * item.Soluong
                 };
-
-                _context.Dondathangs.Add(dondathang);
-                _context.SaveChanges();
-
-                // Add order details (Chitietdondathang) for each item in the cart
-                foreach (var cartItem in cartItems)
-                {
-                    var chitiet = new Chitietdondathang
-                    {
-                        Maddh = dondathang.Maddh,
-                        Masp = cartItem.Masanpham,
-                        Soluong = cartItem.Soluong,
-                        Thanhtien = (decimal)(cartItem.Giasaugiam * cartItem.Soluong)
-                    };
-                    _context.Chitietdondathangs.Add(chitiet);
-                }
-
-                _context.SaveChanges();
-
-                // Create an invoice (Hoadon) with the selected payment method
-                var hoadon = new Hoadon
-                {
-                    Maptvc = maptvc, // Lưu phương thức vận chuyển
-                    Mapttt = mapttt, // Lưu phương thức thanh toán
-                    Ngaythanhtoan = DateTime.Now,
-                    Manv = 1 // Đặt ID nhân viên (giả sử là 1 cho bản demo; cập nhật khi cần)
-                };
-
-                _context.Hoadons.Add(hoadon);
-                _context.SaveChanges();
-
-                transaction.Commit();
-
-                // Clear the cart after checkout
-                HttpContext.Session.Remove("GioHang");
-
-                return RedirectToAction("Success"); // Redirect to success page
+                _context.Chitietdondathangs.Add(chiTiet);
             }
-            catch
-            {
-                transaction.Rollback();
-                return RedirectToAction("Index"); // If error, reload checkout page
-            }
+            await _context.SaveChangesAsync();
+
+            // Xóa giỏ hàng sau khi đặt hàng thành công
+            HttpContext.Session.Remove("GioHang");
+
+            // Chuyển hướng tới trang xác nhận đơn hàng
+            return RedirectToAction("OrderConfirmation", new { id = donDatHang.Maddh });
         }
 
-        // Display success page after successful checkout
-        public IActionResult Success()
+        [Route("OrderConfirmation/{id}")]
+        public async Task<IActionResult> OrderConfirmation(int id)
         {
-            return View(); // Show success page
+            var donDatHang = await _context.Dondathangs
+                .Include(d => d.Chitietdondathangs)
+                .ThenInclude(c => c.MaspNavigation)
+                .FirstOrDefaultAsync(d => d.Maddh == id);
+
+            if (donDatHang == null)
+            {
+                return NotFound();
+            }
+
+            return View(donDatHang);
         }
     }
 }

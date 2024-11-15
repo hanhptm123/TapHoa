@@ -2,7 +2,9 @@
 
 @{
     ViewData["Title"] = "Create New Import Slip";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
 
 <h2 class="text-center">Create New Import Slip</h2>
 
@@ -53,6 +55,7 @@
     <div class="form-group">
         <label class="control-label">Grand Total:</label>
         <input id="GrandTotal" class="form-control" readonly />
+        <input type="hidden" name="Tongtien" id="HiddenGrandTotal" />
     </div>
 
     <div class="d-flex justify-content-between">
@@ -90,7 +93,7 @@
             newRow.innerHTML = `
                         <td>
                             <select name="Ctphieunhap[${rowCount}].Masp" class="form-control dropdown-product" onchange="updatePrice(${rowCount})">
-                                <option value="">Select a Product</option> <!-- Default option -->
+                                <option value="">Select a Product</option>
         @foreach (var item in ViewBag.MaspList)
         {
                                         <option value="@item.Value">@item.Text</option>
@@ -125,6 +128,7 @@
                 grandTotal += parseFloat(input.value) || 0;
             });
             document.getElementById('GrandTotal').value = grandTotal.toFixed(2);
+            document.getElementById('HiddenGrandTotal').value = grandTotal.toFixed(2); // Cập nhật input ẩn
         }
     </script>
 }
@@ -140,73 +144,33 @@
         box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     }
 
-        .importslip-form h2 {
-            margin-bottom: 20px;
-            color: #333;
-        }
-
     .form-group {
         margin-bottom: 15px;
     }
 
     .form-control {
-        height: 45px; /* Adjust height for inputs */
-        font-size: 16px; /* Increase font size for better readability */
+        height: 45px;
+        font-size: 16px;
         border: 1px solid #ccc;
         border-radius: 4px;
         transition: border-color 0.3s;
     }
 
         .form-control:focus {
-            border-color: #007bff; /* Change border color on focus */
-            box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Add shadow effect */
+            border-color: #007bff;
+            box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
         }
 
-    .dropdown-employee {
+    .dropdown-employee, .dropdown-product, .input-quantity {
         width: 100%;
-        appearance: none; /* Removes default dropdown arrow */
-        background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2"><polyline points="5 7 10 12 15 7" /></svg>') no-repeat right 10px center; /* Custom dropdown arrow */
-        background-size: 12px; /* Size of the custom arrow */
-        padding-right: 30px; /* Space for the arrow */
     }
 
-    .table {
-        width: 100%;
-        margin-bottom: 20px;
+    .table th, .table td {
+        text-align: center;
+        vertical-align: middle;
     }
 
-        .table th, .table td {
-            text-align: center;
-            vertical-align: middle;
-        }
-
-        .table th {
-            background-color: #f2f2f2;
-        }
-
-    /* Column width adjustments */
-    .col-product {
-        width: 40%; /* Wider for the Product column */
-    }
-
-    .col-quantity {
-        width: 15%; /* Smaller for the Quantity column */
-    }
-
-    .dropdown-product {
-        width: 100%; /* Make dropdowns full width of their column */
-    }
-
-    .input-quantity {
-        width: 100%; /* Make quantity inputs full width of their column */
-    }
-
-    .btn {
-        margin-right: 10px;
-    }
-
-    .text-danger {
-        font-weight: bold;
-        color: red;
+    .table th {
+        background-color: #f2f2f2;
     }
 </style>

@@ -176,6 +176,7 @@ namespace TapHoa.Controllers
             {
                 new Claim(ClaimTypes.Name, taikhoan.Tendangnhap),
                 new Claim(ClaimTypes.Role, taikhoan.Chucvu),
+                new Claim("Matk", taikhoan.Matk.ToString()),
             };
             var claimsIdentity = new ClaimsIdentity(
             claims, CookieAuthenticationDefaults.AuthenticationScheme);

@@ -211,6 +211,7 @@ public partial class TaphoaContext : DbContext
             entity.Property(e => e.Makh).HasColumnName("MAKH");
             entity.Property(e => e.Maptvc).HasColumnName("MAPTVC");
             entity.Property(e => e.Mattddh).HasColumnName("MATTDDH");
+            entity.Property(e => e.Mapttt).HasColumnName("MAPTTT");
             entity.Property(e => e.Ngaydat)
                 .HasColumnType("datetime")
                 .HasColumnName("NGAYDAT");
@@ -234,7 +235,12 @@ public partial class TaphoaContext : DbContext
             entity.HasOne(d => d.MattddhNavigation).WithMany(p => p.Dondathangs)
                 .HasForeignKey(d => d.Mattddh)
                 .HasConstraintName("FK_DONDATHANG_TRANGTHAIDONDATHANG");
+
+            entity.HasOne(d => d.MaptttNavigation).WithMany(p => p.Dondathangs)
+                .HasForeignKey(d => d.Mapttt)
+                .HasConstraintName("FK_DONDATHANG_PHUONGTHUCTHANHTOAN");
         });
+
 
         modelBuilder.Entity<Hoadon>(entity =>
         {
