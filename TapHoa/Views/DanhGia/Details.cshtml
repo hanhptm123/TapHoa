@@ -1,0 +1,17 @@
+@model TapHoa.Data.Danhgia
+
+@{
+    ViewData["Title"] = "Chi tiết đánh giá";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <p><strong>Sản phẩm:</strong> @Model.MaspNavigation.TenSanpham</p>
+    <p><strong>Khách hàng:</strong> @Model.MakhNavigation.Tenkh</p>
+    <p><strong>Điểm đánh giá:</strong> @Model.Diemdanhgia</p>
+    <p><strong>Lời nhận xét:</strong> @Model.Loidanhgia</p>
+    <p><strong>Ngày đánh giá:</strong> @Model.Ngaydanhgia.ToString("dd/MM/yyyy")</p>
+</div>
+
+<a href="@Url.Action("Index")" class="btn btn-primary">Quay lại</a>

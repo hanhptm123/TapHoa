@@ -1,0 +1,39 @@
+@model IEnumerable<TapHoa.Data.Danhgia>
+
+@{
+    ViewData["Title"] = "Danh sách đánh giá";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Sản phẩm</th>
+            <th>Khách hàng</th>
+            <th>Điểm đánh giá</th>
+            <th>Lời nhận xét</th>
+            <th>Ngày đánh giá</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaspNavigation.TenSanpham</td>
+                <td>@item.MakhNavigation.Tenkh</td>
+                <td>@item.Diemdanhgia</td>
+                <td>@item.Loidanhgia</td>
+                <td>@item.Ngaydanhgia.ToString("dd/MM/yyyy")</td>
+                <td>
+                    <a href="@Url.Action("Details", new { id = item.Madg })" class="btn btn-info">Xem</a>
+                    <a href="@Url.Action("Edit", new { id = item.Madg })" class="btn btn-warning">Sửa</a>
+                    <a href="@Url.Action("Delete", new { id = item.Madg })" class="btn btn-danger">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create", new { masp = 1 })" class="btn btn-primary">Đánh giá sản phẩm</a> <!-- Thay masp là ID sản phẩm cần đánh giá -->

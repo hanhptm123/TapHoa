@@ -1,0 +1,32 @@
+@model TapHoa.Data.Danhgia
+
+@{
+    ViewData["Title"] = "Đánh giá sản phẩm";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label for="Masp">Mã sản phẩm:</label>
+        <input type="text" class="form-control" value="@ViewBag.Masp" readonly />
+        <input type="hidden" asp-for="Masp" value="@ViewBag.Masp" />
+    </div>
+
+    <div class="form-group">
+        <label for="Diemdanhgia">Điểm đánh giá (1-5):</label>
+        <input type="number" asp-for="Diemdanhgia" class="form-control" min="1" max="5" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Loidanhgia">Lời nhận xét:</label>
+        <textarea asp-for="Loidanhgia" class="form-control" rows="4"></textarea>
+    </div>
+
+    <div class="form-group">
+        <label for="Hinhanh">Hình ảnh:</label>
+        <input type="file" asp-for="Hinhanh" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Gửi đánh giá</button>
+</form>

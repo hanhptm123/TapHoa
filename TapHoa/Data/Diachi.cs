@@ -16,4 +16,6 @@ public partial class Diachi
     public string Diachi1 { get; set; } = null!;
 
     public virtual Khachhang? MakhNavigation { get; set; }
+    
+    public virtual ICollection<Diachi> Diachis { get; set; } = new List<Diachi>();
 }

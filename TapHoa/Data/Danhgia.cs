@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace TapHoa.Data;
 
-public partial class Danhgium
+public partial class Danhgia
 {
     public int Madg { get; set; }
 
@@ -22,4 +22,6 @@ public partial class Danhgium
     public virtual Khachhang? MakhNavigation { get; set; }
 
     public virtual Sanpham? MaspNavigation { get; set; }
+    
+    public DbSet<Danhgia> Danhgia { get; set; }
 }

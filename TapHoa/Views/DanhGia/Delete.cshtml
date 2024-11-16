@@ -1,0 +1,15 @@
+@model TapHoa.Data.Danhgia
+
+@{
+    ViewData["Title"] = "Xóa đánh giá";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Bạn có chắc chắn muốn xóa đánh giá này không?</p>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Madg" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Hủy</a>
+</form>

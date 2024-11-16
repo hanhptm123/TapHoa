@@ -1,0 +1,21 @@
+@model TapHoa.Data.Danhgia
+
+@{
+    ViewData["Title"] = "Sửa đánh giá";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label for="Diemdanhgia">Điểm đánh giá (1-5):</label>
+        <input type="number" asp-for="Diemdanhgia" class="form-control" min="1" max="5" />
+    </div>
+
+    <div class="form-group">
+        <label for="Loidanhgia">Lời nhận xét:</label>
+        <textarea asp-for="Loidanhgia" class="form-control" rows="4"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Cập nhật</button>
+</form>
