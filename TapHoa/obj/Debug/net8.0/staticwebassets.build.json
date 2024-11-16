@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sa6b91d+FmpcQ9SgRCnGYWM7LUVeMoH3d2Tl5VhsnGg=",
+  "Hash": "X89dNdwJwlUUHMCEqGXzGSfbtrGpZMle6P7Dgb6scv4=",
   "Source": "TapHoa",
   "BasePath": "_content/TapHoa",
   "Mode": "Default",
@@ -1934,6 +1934,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
+    },
+    {
+      "Identity": "C:\\ĐỒ ÁN\\TapHoa0\\TapHoa\\TapHoa\\wwwroot\\js\\sanphamSearch.js",
+      "SourceId": "TapHoa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ĐỒ ÁN\\TapHoa0\\TapHoa\\TapHoa\\wwwroot\\",
+      "BasePath": "_content/TapHoa",
+      "RelativePath": "js/sanphamSearch.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\sanphamSearch.js"
     },
     {
       "Identity": "C:\\ĐỒ ÁN\\TapHoa0\\TapHoa\\TapHoa\\wwwroot\\js\\site.js",

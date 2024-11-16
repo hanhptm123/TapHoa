@@ -1,5 +1,4 @@
 ﻿@model IEnumerable<TapHoa.Data.Sanpham>
-
 @{
     ViewData["Title"] = "Danh sách sản phẩm";
     Layout = "~/Views/Shared/Shop.cshtml";
@@ -8,9 +7,20 @@
 <section class="product spad">
     <div class="container">
         <div class="row">
-            @await Component.InvokeAsync("Categories")
+            <div class="col-lg-3 col-md-5">
+                <div class="sidebar">
+                    <div class="sidebar__item">
+                        <h4>Categories</h4>
+                        <ul>
+                            <li><a href="#">Fresh Meat</a></li>
+                            <li><a href="#">Vegetables</a></li>
+                            <li><a href="#">Fruit & Nut Gifts</a></li>
+                            <!-- Add more categories as needed -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
             <div class="col-lg-9 col-md-7">
-               
                 <div class="filter__item">
                     <div class="row">
                         <div class="col-lg-4 col-md-5">
@@ -35,7 +45,6 @@
                         </div>
                     </div>
                 </div>
-                @await Component.InvokeAsync("Discount")
                 <div id="productResults">
                     @if (Model != null && Model.Any())
                     {
@@ -87,7 +96,6 @@
         </div>
     </div>
 </section>
-
 @section Scripts {
     <script>
         $(document).ready(function () {

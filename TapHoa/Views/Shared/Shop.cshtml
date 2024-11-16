@@ -78,7 +78,7 @@
                     <nav class="header__menu">
                         <ul>
                             <li><a asp-controller="Home" asp-action="_Urer">Home</a></li>
-                            <li class="active"><a href="./shop-grid.html">Shop</a></li>
+                            <li><a class="nav-link text-dark" asp-area="" asp-controller="Sanphams" asp-action="Danhsachsp">Shop</a></li>
                             <li>
                                 <a href="#">Pages</a>
                                 <ul class="header__menu__dropdown">
@@ -110,7 +110,18 @@
             </div>
         </div>
     </header>
+
+    
+    <div class="container">
+        <div class="hero__search__form row">
+            <form asp-action="Search" asp-controller="Sanphams" method="get" id="searchForm" class="w-fit">
+                <input type="text" id="searchInput" name="keyword" placeholder="What do you need?" class="form-control" />
+                <button type="submit" class="site-btn">SEARCH</button>
+            </form>
+        </div>
+    </div>
     @RenderSection("breadcum", required: false)
+   
     @RenderBody() 
     @RenderSection("scripts", required: false)
     <!-- Js Plugins -->
@@ -123,7 +134,28 @@
     <script src="~/js/mixitup.min.js"></script>
     <script src="~/js/owl.carousel.min.js"></script>
     <script src="~/js/main.js"></script>
+    @section Scripts {
+        <script>
+            $(document).ready(function () {
+                $("#searchForm").on("submit", function (e) {
+                    e.preventDefault(); // Ngăn form reload trang
+                    const keyword = $("#searchInput").val();
 
+                    $.ajax({
+                        url: '/Sanphams/Search',
+                        type: 'GET',
+                        data: { keyword: keyword },
+                        success: function (response) {
+                            $("#productResults").html(response); // Hiển thị kết quả trong div #productResults
+                        },
+                        error: function () {
+                            alert("Có lỗi xảy ra. Vui lòng thử lại sau.");
+                        }
+                    });
+                });
+            });
+        </script>
+    }
 </body>
 
 </html>

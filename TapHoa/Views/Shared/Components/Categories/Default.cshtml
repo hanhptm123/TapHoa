@@ -1,25 +1,22 @@
 ﻿@model IEnumerable<TapHoa.Data.Loaisp>
+
 <!-- Hero Section Begin -->
-<section class="hero hero-normal">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3">
-                <div class="hero__categories">
-                    <div class="hero__categories__all">
-                        <i class="fa fa-bars"></i>
-                        <span>All Categories</span>
-                    </div>
-                    <ul>
-                        @foreach(var item in Model)
-                        {
-                            <li><a href="#">@item.Tenloaisp</a></li>
-                        }
-                        
-                        
-                    </ul>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-3">
+            <div class="hero__categories">
+                <div class="hero__categories__all d-flex align-items-center" data-toggle="collapse" data-target="#categoryList" aria-expanded="false" aria-controls="categoryList">
+                    <i class="fa fa-bars"></i>
+                    <span class="ml-2">All Categories</span>
                 </div>
+                <ul id="categoryList" class="list-unstyled mt-3 collapse">
+                    @foreach (var item in Model)
+                    {
+                        <li><a href="#">@item.Tenloaisp</a></li>
+                    }
+                </ul>
             </div>
         </div>
     </div>
-</section>
+</div>
 <!-- Hero Section End -->

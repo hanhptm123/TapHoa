@@ -192,8 +192,22 @@ namespace TapHoa.Controllers
             // Return the view with the product list
             return View(taphoaContext);
         }
+        [HttpGet]
+      
+        public IActionResult Search(string keyword)
+        {
+            var products = string.IsNullOrEmpty(keyword)
+                ? new List<Sanpham>() // Nếu không có từ khóa, trả về danh sách trống
+                : _context.Sanphams
+                          .Where(sp => sp.Tensp.Contains(keyword))
+                          .ToList();
 
+            return PartialView("_ProductList", products); // Trả về PartialView
+        }
 
+        [HttpGet]
+
+        
 
     }
 }

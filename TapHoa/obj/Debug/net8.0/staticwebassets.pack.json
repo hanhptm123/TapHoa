@@ -1041,6 +1041,10 @@
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
+      "Id": "C:\\ĐỒ ÁN\\TapHoa0\\TapHoa\\TapHoa\\wwwroot\\js\\sanphamSearch.js",
+      "PackagePath": "staticwebassets\\js\\sanphamSearch.js"
+    },
+    {
       "Id": "C:\\ĐỒ ÁN\\TapHoa0\\TapHoa\\TapHoa\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
