@@ -1,0 +1,1627 @@
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\appsettings.Development.json
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\appsettings.json
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.staticwebassets.runtime.json
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.exe
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.deps.json
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.runtimeconfig.json
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.pdb
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Azure.Core.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Azure.Identity.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Humanizer.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.CodeDom.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Memory.Data.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.AssemblyReference.cache
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfoInputs.cache
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfo.cs
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.CoreCompileInputs.cache
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cache
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cache
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cs
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.build.json
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.development.json
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.TapHoa.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.build.TapHoa.props
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TapHoa.props
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TapHoa.props
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\bundle\TapHoa.styles.css
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\projectbundle\TapHoa.bundle.scp.css
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.CopyComplete
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.dll
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\refint\TapHoa.dll
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.pdb
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.genruntimeconfig.cache
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\ref\TapHoa.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Build.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Common.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.sourcelink.json
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\appsettings.Development.json
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\appsettings.json
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.staticwebassets.runtime.json
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.exe
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.deps.json
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.runtimeconfig.json
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.pdb
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Azure.Core.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Azure.Identity.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Humanizer.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Build.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Common.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.CodeDom.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.AssemblyReference.cache
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfoInputs.cache
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfo.cs
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.CoreCompileInputs.cache
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cache
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cache
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cs
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.sourcelink.json
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.build.json
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.development.json
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.TapHoa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.build.TapHoa.props
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TapHoa.props
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TapHoa.props
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\bundle\TapHoa.styles.css
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\projectbundle\TapHoa.bundle.scp.css
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.CopyComplete
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\refint\TapHoa.dll
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.pdb
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.genruntimeconfig.cache
+C:\ĐỒ ÁN\TapHoa\TapHoa\obj\Debug\net8.0\ref\TapHoa.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\TapHoa.staticwebassets.runtime.json
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\TapHoa.exe
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\TapHoa.deps.json
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\TapHoa.runtimeconfig.json
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\TapHoa.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\TapHoa.pdb
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cache
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cs
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.sourcelink.json
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.TapHoa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.build.TapHoa.props
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TapHoa.props
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TapHoa.props
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\scopedcss\bundle\TapHoa.styles.css
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\scopedcss\projectbundle\TapHoa.bundle.scp.css
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.csproj.Up2Date
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\refint\TapHoa.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.pdb
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.genruntimeconfig.cache
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\ref\TapHoa.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\Users\Admin\Source\Repos\TAPHOA1\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cs
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\X.PagedList.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\TapHoa_1\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.staticwebassets.runtime.json
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.exe
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.deps.json
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.runtimeconfig.json
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.pdb
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfo.cs
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cache
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cs
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.sourcelink.json
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.TapHoa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.build.TapHoa.props
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TapHoa.props
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TapHoa.props
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\bundle\TapHoa.styles.css
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\projectbundle\TapHoa.bundle.scp.css
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.CopyComplete
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\refint\TapHoa.dll
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.pdb
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.genruntimeconfig.cache
+C:\Users\Asus\Downloads\Documents\Code\TapHoa\TapHoa\obj\Debug\net8.0\ref\TapHoa.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\appsettings.Development.json
+C:\TapHoa\TapHoa\bin\Debug\net8.0\appsettings.json
+C:\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.staticwebassets.runtime.json
+C:\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.exe
+C:\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.deps.json
+C:\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.runtimeconfig.json
+C:\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.pdb
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Azure.Core.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Azure.Identity.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Humanizer.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Build.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Common.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.CodeDom.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Memory.Data.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\X.PagedList.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.AssemblyReference.cache
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfoInputs.cache
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfo.cs
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.CoreCompileInputs.cache
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cs
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cache
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cache
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cs
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.sourcelink.json
+C:\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.build.json
+C:\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.development.json
+C:\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.TapHoa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.build.TapHoa.props
+C:\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TapHoa.props
+C:\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TapHoa.props
+C:\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\bundle\TapHoa.styles.css
+C:\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\projectbundle\TapHoa.bundle.scp.css
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.Up2Date
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.dll
+C:\TapHoa\TapHoa\obj\Debug\net8.0\refint\TapHoa.dll
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.pdb
+C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.genruntimeconfig.cache
+C:\TapHoa\TapHoa\obj\Debug\net8.0\ref\TapHoa.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\appsettings.Development.json
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\appsettings.json
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.staticwebassets.runtime.json
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.exe
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.deps.json
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.runtimeconfig.json
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\TapHoa.pdb
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Azure.Core.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Azure.Identity.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Humanizer.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Build.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Common.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.CodeDom.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\X.PagedList.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.AssemblyReference.cache
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfoInputs.cache
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.AssemblyInfo.cs
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.CoreCompileInputs.cache
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cs
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.MvcApplicationPartsAssemblyInfo.cache
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cache
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.RazorAssemblyInfo.cs
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.sourcelink.json
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.build.json
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.development.json
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.TapHoa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.build.TapHoa.props
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TapHoa.props
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TapHoa.props
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\bundle\TapHoa.styles.css
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\scopedcss\projectbundle\TapHoa.bundle.scp.css
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.csproj.CopyComplete
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\refint\TapHoa.dll
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.pdb
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.genruntimeconfig.cache
+C:\ĐỒ ÁN\TapHoa0\TapHoa\TapHoa\obj\Debug\net8.0\ref\TapHoa.dll
