@@ -1,0 +1,45 @@
+﻿@model IEnumerable<TapHoa.Data.Thuonghieu>
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "DanhMucThuongHieu";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h3>Brand list</h3>
+
+<p>
+    <a asp-action="ThemTH">Create</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Brand name
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+            string cls = "table-success";
+        }
+@foreach (var item in Model) {
+            cls = "table-success";
+            i++;
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+        <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.Tenthuonghieu)
+            </td>
+            <td>
+                <a asp-action="SuaTH" asp-route-Mathuonghieu="@item.Mathuonghieu">Edit</a> |
+                <a asp-action="XoaTH" asp-route-Mathuonghieu="@item.Mathuonghieu">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

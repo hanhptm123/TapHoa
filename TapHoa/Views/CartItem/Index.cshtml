@@ -1,0 +1,204 @@
+﻿@model IEnumerable<Cartitem>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Shop.cshtml";
+}
+
+@section breadcum {
+    <section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="breadcrumb__text">
+                        <h2>Shopping Cart</h2>
+                        <div class="breadcrumb__option">
+                            <a href="./index.html">Home</a>
+                            <span>Shopping Cart</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+
+<section class="shoping-cart spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="shoping__cart__table">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th class="shoping__product">Products</th>
+                                <th>Price</th>
+                                <th>Discount (%)</th>
+                                <th>Quantity</th>
+                                <th>Total</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr data-id="@item.Masanpham">
+                                    <td class="shoping__cart__item">
+                                        <img class="img-fluid" src="@item.Hinh" alt="Hình" style="width: 100px; height: 100px; object-fit: cover;">
+                                    </td>
+                                    <td class="shoping__cart__price" data-price="@item.Giagoc">
+                                        @item.Giagoc.ToString("C")
+                                    </td>
+                                    <td class="shoping__cart__discount" data-discount="@item.Discount">
+                                        @item.Discount %
+                                    </td>
+                                    <td class="shoping__cart__quantity">
+                                    <td class="shoping__cart__quantity">
+                                        <div class="pro-qty">
+                                            <input id="quantityInput" name="soluong" type="number" min="1" value="@item.Soluong" class="quantity-input" data-id="@item.Masanpham">
+                                        </div>
+                                    </td>
+
+                                    </td>
+                                    <td class="shoping__cart__total" id="total-@item.Masanpham">
+                                        @item.Thanhtien.ToString("C")
+                                    </td>
+                                    <td class="shoping__cart__item__close">
+                                        <a asp-action="RemoveFromCart" asp-controller="CartItem" asp-route-MASP="@item.Masanpham" title="Remove from Cart">
+                                            <span class="icon_close"></span>
+                                        </a>
+                                    </td>
+
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <div class="row">
+                    <div class="shoping__cart__total col-9 ">
+                        <h5>
+                            Total:
+                            @{
+                                decimal totalBeforeDiscount = Model.Sum(item => (decimal)item.Giagoc);
+                            }
+                            @totalBeforeDiscount.ToString("C")
+                        </h5>
+                        <h5>
+                            Total After Discount:
+                            @{
+                                decimal totalAfterDiscount = Model.Sum(item => (decimal)item.Giasaugiam);
+                            }
+                            @totalAfterDiscount.ToString("C")
+                        </h5>
+                    </div>
+                    <div class="col-2 align-content-end">
+                        <a><button class="btn-block bg-gradient w-auto">MUA HÀNG</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section scripts {
+    <script>
+        // Function to handle quantity change
+        function handleQuantityChange() {
+            const quantityInputs = document.querySelectorAll('.quantity-input');
+            quantityInputs.forEach(input => {
+                input.addEventListener('change', function () {
+                    saveToLocalStorage(); // Save quantity changes to Local Storage
+                    updateTotal(); // Update the total after change
+                });
+            });
+        }
+
+        // Function to save to Local Storage
+        function saveToLocalStorage() {
+            const quantityInputs = document.querySelectorAll('.quantity-input');
+            const cartData = {};
+
+            quantityInputs.forEach(input => {
+                const productId = input.getAttribute('data-id');
+                const quantity = input.value;
+                cartData[productId] = quantity; // Save quantity by product ID
+            });
+
+            localStorage.setItem('cartData', JSON.stringify(cartData)); // Store cart data in Local Storage
+        }
+
+        // Function to load cart data from Local Storage
+        function loadFromLocalStorage() {
+            const cartData = JSON.parse(localStorage.getItem('cartData'));
+
+            if (cartData) {
+                Object.keys(cartData).forEach(productId => {
+                    const input = document.querySelector(`.quantity-input[data-id='${productId}']`);
+                    if (input) {
+                        input.value = cartData[productId]; // Restore quantity
+                    }
+                });
+            }
+        }
+
+        // Update totals after quantity changes
+        function updateTotal() {
+            let grandTotalAfterDiscount = 0;
+            let grandTotalBeforeDiscount = 0;
+            const rows = document.querySelectorAll('tbody tr');
+
+            rows.forEach(row => {
+                const price = parseFloat(row.querySelector('.shoping__cart__price').dataset.price);
+                const discount = parseFloat(row.querySelector('.shoping__cart__discount').dataset.discount) / 100;
+                const quantity = parseInt(row.querySelector('.quantity-input').value);
+
+                // Calculate total before discount
+                const totalBeforeDiscount = price * quantity;
+                grandTotalBeforeDiscount += totalBeforeDiscount;
+
+                // Calculate total after discount
+                const totalAfterDiscount = totalBeforeDiscount * (1 - discount);
+                grandTotalAfterDiscount += totalAfterDiscount;
+
+                // Update the total for the row
+                row.querySelector('.shoping__cart__total').innerText = totalAfterDiscount.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
+            });
+
+            // Update grand totals
+            document.querySelector('.shoping__cart__total h5:first-child').innerText = 'Total: ' + grandTotalBeforeDiscount.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
+            document.querySelector('.shoping__cart__total h5:last-child').innerText = 'Total After Discount: ' + grandTotalAfterDiscount.toLocaleString('en-US', { style: 'currency', currency: 'USD' });
+        }
+
+        // Event listeners for increment and decrement buttons
+        document.addEventListener("DOMContentLoaded", function () {
+            loadFromLocalStorage(); // Load data from Local Storage when the page loads
+
+            // Handle decrement button click
+            document.querySelectorAll('.dec').forEach(button => {
+                button.addEventListener('click', function () {
+                    var input = this.nextElementSibling; // Get the input element
+                    var value = parseInt(input.value);
+                    if (value > 1) {  // Prevent going below 1
+                        input.value = value - 1;
+                        saveToLocalStorage(); // Save the updated quantity to Local Storage
+                        updateTotal(); // Update the total after decrement
+                    }
+                });
+            });
+
+            // Handle increment button click
+            document.querySelectorAll('.inc').forEach(button => {
+                button.addEventListener('click', function () {
+                    var input = this.previousElementSibling; // Get the input element
+                    var value = parseInt(input.value);
+                    input.value = value + 1;
+                    saveToLocalStorage(); // Save the updated quantity to Local Storage
+                    updateTotal(); // Update the total after increment
+                });
+            });
+
+            handleQuantityChange(); // Handle quantity input change
+            updateTotal(); // Update the totals when the page loads
+        });
+    </script>
+
+}
