@@ -1,0 +1,44 @@
+﻿@model TapHoa.Data.Chitietdondathang
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Chitietdondathang</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Masp" class="control-label"></label>
+                <select asp-for="Masp" class ="form-control" asp-items="ViewBag.Masp"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Maddh" class="control-label"></label>
+                <select asp-for="Maddh" class ="form-control" asp-items="ViewBag.Maddh"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Soluong" class="control-label"></label>
+                <input asp-for="Soluong" class="form-control" />
+                <span asp-validation-for="Soluong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Thanhtien" class="control-label"></label>
+                <input asp-for="Thanhtien" class="form-control" />
+                <span asp-validation-for="Thanhtien" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

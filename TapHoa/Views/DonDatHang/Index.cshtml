@@ -27,6 +27,9 @@
                 <td>
                     <a asp-action="Details" asp-route-id="@item.Maddh" class="btn btn-info btn-sm">Xem</a>
                     <a asp-action="EditStatus" asp-route-id="@item.Maddh" class="btn btn-warning btn-sm">Cập Nhật Trạng Thái</a>
+                    <a href="@Url.Action("Ctddhadmin", "Chitietdondathangs", new { id = item.Maddh })" class="btn btn-secondary btn-sm">
+                         Chi Tiết
+                    </a>
                 </td>
             </tr>
         }

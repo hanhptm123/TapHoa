@@ -1,0 +1,49 @@
+﻿@model IEnumerable<TapHoa.Data.Chitietdondathang>
+@{
+    ViewData["Title"] = "Ctddhadmin";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1 class="text-center mb-4">Chi tiết đơn hàng</h1>
+<div class="text-center" style="min-height: 50px;">
+    <!-- Dùng text-center để căn giữa nội dung -->
+    <div class="table-responsive" style="padding: 0 200px;">
+        <table class="table table-bordered">
+            <thead class="thead-dark">
+                <tr class="text-center">
+                    <!-- Sử dụng class text-center để căn giữa -->
+                    <th scope="col">Mã đơn hàng</th>
+                    <th scope="col">Tên sản phẩm</th>
+                    <th scope="col">Hình ảnh</th>
+                    <th scope="col">Đơn giá</th>
+                    <th scope="col">Số lượng</th>
+                    <th scope="col">Thành tiền</th>
+                </tr>
+            </thead>
+
+
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.MaddhNavigation.Maddh)</td>
+                        <td>@Html.DisplayFor(modelItem => item.MaspNavigation.Tensp)</td>
+                        <td>
+                            <img src="@("~/image/"+item.MaspNavigation.Hinhanh)" asp-append-version="true" width="64px" height="64px" />
+                        </td>
+
+                        <td>@Html.DisplayFor(modelItem => item.MaspNavigation.Gia)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Soluong)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Thanhtien)</td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="text-center" style="min-height: 250px;">
+    <!-- Dùng text-center để căn giữa nội dung -->
+</div>
+

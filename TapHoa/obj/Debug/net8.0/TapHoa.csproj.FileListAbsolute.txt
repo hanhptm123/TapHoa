@@ -1353,3 +1353,4 @@ C:\TapHoa\TapHoa\obj\Debug\net8.0\refint\TapHoa.dll
 C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.pdb
 C:\TapHoa\TapHoa\obj\Debug\net8.0\TapHoa.genruntimeconfig.cache
 C:\TapHoa\TapHoa\obj\Debug\net8.0\ref\TapHoa.dll
+D:\TapHoa_1\TapHoa\TapHoa\bin\Debug\net8.0\System.ClientModel.dll
