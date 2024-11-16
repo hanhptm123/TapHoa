@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TapHoa\\TapHoa\\TapHoa.csproj": {}
+    "D:\\TapHoa_1\\TapHoa\\TapHoa\\TapHoa.csproj": {}
   },
   "projects": {
-    "C:\\TapHoa\\TapHoa\\TapHoa.csproj": {
+    "D:\\TapHoa_1\\TapHoa\\TapHoa\\TapHoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TapHoa\\TapHoa\\TapHoa.csproj",
+        "projectUniqueName": "D:\\TapHoa_1\\TapHoa\\TapHoa\\TapHoa.csproj",
         "projectName": "TapHoa",
-        "projectPath": "C:\\TapHoa\\TapHoa\\TapHoa.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\TapHoa\\TapHoa\\obj\\",
+        "projectPath": "D:\\TapHoa_1\\TapHoa\\TapHoa\\TapHoa.csproj",
+        "packagesPath": "C:\\Users\\Hanh\\.nuget\\packages\\",
+        "outputPath": "D:\\TapHoa_1\\TapHoa\\TapHoa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -48,29 +42,29 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.7, )"
             },
             "X.PagedList.Mvc.Core": {
               "target": "Package",
@@ -96,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
