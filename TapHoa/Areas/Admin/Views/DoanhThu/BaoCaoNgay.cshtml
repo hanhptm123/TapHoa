@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Báo cáo doanh thu theo ngày";
+}
+
+<h1>Báo cáo doanh thu theo ngày</h1>
+
+<form method="get" action="/admin/doanhthu/baocaongay">
+    <label for="ngay">Chọn ngày:</label>
+    <input type="date" id="ngay" name="ngay" value="@ViewBag.Ngay.ToString("yyyy-MM-dd")" />
+    <button type="submit">Xem</button>
+</form>
+
+@if (ViewBag.DoanhThu > 0)
+{
+    <h3>Kết quả</h3>
+    <p>Ngày: @ViewBag.Ngay.ToShortDateString()</p>
+    <p>Tổng doanh thu: @ViewBag.DoanhThu.ToString("C")</p>
+}
+else
+{
+    <p>Không có dữ liệu doanh thu cho ngày được chọn.</p>
+}

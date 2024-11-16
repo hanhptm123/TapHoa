@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Báo cáo doanh thu theo năm";
+}
+
+<h1>Báo cáo doanh thu theo năm</h1>
+
+<form method="get" action="/admin/doanhthu/baocaonam">
+    <label for="nam">Năm:</label>
+    <input type="number" id="nam" name="nam" value="@ViewBag.Nam" min="2000" max="@DateTime.Now.Year" />
+    <button type="submit">Xem</button>
+</form>
+
+@if (ViewBag.DoanhThu > 0)
+{
+    <h3>Kết quả</h3>
+    <p>Năm: @ViewBag.Nam</p>
+    <p>Tổng doanh thu: @ViewBag.DoanhThu.ToString("C")</p>
+}
+else
+{
+    <p>Không có dữ liệu doanh thu cho năm được chọn.</p>
+}
