@@ -205,8 +205,7 @@ namespace TapHoa.Controllers
             return PartialView("_ProductList", products); // Trả về PartialView
         }
 
-        [HttpGet]
-
+      
         
 
     }
