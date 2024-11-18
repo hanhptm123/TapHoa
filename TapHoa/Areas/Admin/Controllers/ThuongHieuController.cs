@@ -39,7 +39,7 @@ namespace TapHoa.Areas.Admin.Controllers
             {
                 _context.Thuonghieus.Add(TH);
                 _context.SaveChanges();
-                return RedirectToAction("DanhMucTH");
+                return RedirectToAction("DanhMucThuongHieu");
             }
             return View(TH);
         }
@@ -48,7 +48,7 @@ namespace TapHoa.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult SuaTH(int Mathuonghieu)
         {
-            var TH = _context.Thuonghieus.Find(Mathuonghieu);
+            var TH = _context.Thuonghieus.AsNoTracking().FirstOrDefault(th => th.Mathuonghieu == Mathuonghieu);
             return View(TH);
         }
         [Route("SuaTH")]
@@ -60,7 +60,7 @@ namespace TapHoa.Areas.Admin.Controllers
             {
                 _context.Update(TH);
                 _context.SaveChanges();
-                return RedirectToAction("DanhMucTH");
+                return RedirectToAction("DanhMucThuongHieu");
             }
             return View(TH);
         }
@@ -79,13 +79,13 @@ namespace TapHoa.Areas.Admin.Controllers
             if (hasRelatedRecords)
             {
                 TempData["ErrorMessage"] = "Không thể xóa thương hiệu vì có bản ghi liên quan.";
-                return RedirectToAction("DanhMucTH");
+                return RedirectToAction("DanhMucThuongHieu");
             }
 
             _context.Thuonghieus.Remove(TH);
             _context.SaveChanges();
 
-            return RedirectToAction("DanhMucTH");
+            return RedirectToAction("DanhMucThuongHieu");
         }
     }
 }

@@ -1,19 +1,19 @@
-﻿@model TapHoa.Data.Thuonghieu
+﻿@model TapHoa.Data.Khuyenmai
 @addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
 @{
-    ViewData["Title"] = "ThemTH";
+    ViewData["Title"] = "ThemKM";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h1>Add brand</h1>
+<h3>Add promotion</h3>
 <div class="row">
     <div class="col-md-4">
-        <form method="post" asp-action="ThemTH">
+        <form method ="post" asp-action="ThemKM">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Tenthuonghieu" class="control-label"> Brand name</label>
-                <input asp-for="Tenthuonghieu" class="form-control" />
-                <span asp-validation-for="Tenthuonghieu" class="text-danger"></span>
+                <label asp-for="Phantramgiam" class="control-label">Promotion percentage</label>
+                <input asp-for="Phantramgiam" class="form-control" />
+                <span asp-validation-for="Phantramgiam" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
@@ -23,6 +23,6 @@
 </div>
 
 <div>
-    <a asp-action="DanhMucThuongHieu">Go back</a>
+    <a asp-action="DanhMucKhuyenMai"> Go back</a>
 </div>
 

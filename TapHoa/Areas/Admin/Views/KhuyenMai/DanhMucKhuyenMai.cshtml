@@ -1,0 +1,54 @@
+﻿@model IPagedList<TapHoa.Data.Khuyenmai>
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+@{
+    ViewData["Title"] = "DanhMucKhuyenMai";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h3>Promotion list</h3>
+
+<p>
+    <a asp-action="ThemKM">Create </a>
+</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Promotion percentage
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+            string cls = "table-success";
+        }
+@foreach (var item in Model) {
+            cls = "table-success";
+            i++;
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.Phantramgiam)
+            </td>
+            <td>
+                <a asp-action="SuaKM" asp-route-Makm="@item.Makm">Edit</a> |
+                <a asp-action="XoaKM" asp-route-Makm="@item.Makm">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div class="pagination">
+    @Html.PagedListPager(Model, page => Url.Action("DanhMucKhuyenMai", new { page }))
+</div>

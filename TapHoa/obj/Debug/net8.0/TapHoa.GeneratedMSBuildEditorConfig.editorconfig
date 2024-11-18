@@ -54,6 +54,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1TYW5QaGFtTW9pLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/TapHoa/TapHoa/Areas/Admin/Views/KhuyenMai/DanhMucKhuyenMai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2h1eWVuTWFpXERhbmhNdWNLaHV5ZW5NYWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TapHoa/TapHoa/Areas/Admin/Views/KhuyenMai/SuaKm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2h1eWVuTWFpXFN1YUttLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TapHoa/TapHoa/Areas/Admin/Views/KhuyenMai/ThemKM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2h1eWVuTWFpXFRoZW1LTS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/TapHoa/TapHoa/Areas/Admin/Views/Nhacc/DanhMucNhacc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhY2NcRGFuaE11Y05oYWNjLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -78,7 +78,7 @@ namespace TapHoa.Areas.Admin.Controllers
             var hasRelatedRecords = _context.Sanphams.Any(ct => ct.Mancc == Mancc);
             if (hasRelatedRecords)
             {
-                TempData["ErrorMessage"] = "Không thể xóa sản phẩm vì có bản ghi liên quan.";
+                TempData["ErrorMessage"] = "Không thể xóa nhà cung cấp vì có bản ghi liên quan.";
                 return RedirectToAction("DanhMucNhacc");
             }
 

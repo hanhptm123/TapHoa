@@ -18,15 +18,15 @@
 <table class="table">
     <thead>
         <tr class="table-warning">
-            <th>Tên sản phẩm</th>
-            <th>Mô tả</th>
-            <th>Số lượng</th>
-            <th>Giá</th>
-            <th>Hình ảnh</th>
-            <th>Hình ảnh 1</th>
-            <th>Hình ảnh 2</th>
-            <th>Hình ảnh 3</th>
-            <th></th>
+            <th>Product name</th>
+            <th>Description</th>
+            <th>Quantity</th>
+            <th>Cost</th>
+            <th>Image</th>
+            <th>Image 1</th>
+            <th>Image 2</th>
+            <th>Image 3</th>
+            <th>Action</th>
         </tr>
     </thead>
     <tbody>
@@ -47,10 +47,10 @@
                 <td>@item.Mota</td>
                 <td>@item.Soluong</td>
                 <td>@item.Gia</td>
-                <td><img src="@item.Hinhanh" alt="Hình ảnh" width="50" height="50" /></td>
-                <td><img src="@item.Hinhanh1" alt="Hình ảnh 1" width="50" height="50" /></td>
-                <td><img src="@item.Hinhanh2" alt="Hình ảnh 2" width="50" height="50" /></td>
-                <td><img src="@item.Hinhanh3" alt="Hình ảnh 3" width="50" height="50" /></td>
+                <td><img src="@item.Hinhanh" alt="Image" width="50" height="50" /></td>
+                <td><img src="@item.Hinhanh1" alt="Image 1" width="50" height="50" /></td>
+                <td><img src="@item.Hinhanh2" alt="Image 2" width="50" height="50" /></td>
+                <td><img src="@item.Hinhanh3" alt="Image 3" width="50" height="50" /></td>
                 <td>
                     <a asp-action="SuaSanPham" asp-route-Masp="@item.Masp">Edit</a> |
                     <a asp-action="XoaSanPham" asp-route-Masp="@item.Masp">Delete</a>

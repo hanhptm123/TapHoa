@@ -3466,3 +3466,34 @@ ol {
 		font-size: 24px;
 	}
 }
+.pagination {
+	margin: 20px 0;
+	display: flex;
+	justify-content: center;
+	list-style: none;
+	padding: 0;
+}
+
+	.pagination .page-item {
+		margin: 0 5px;
+	}
+
+		.pagination .page-item a {
+			text-decoration: none;
+			color: #007bff;
+			padding: 8px 12px;
+			border: 1px solid #ddd;
+			border-radius: 4px;
+			transition: background-color 0.2s ease;
+		}
+
+		.pagination .page-item.active a {
+			background-color: #007bff;
+			color: white;
+			border-color: #007bff;
+		}
+
+		.pagination .page-item a:hover {
+			background-color: #f8f9fa;
+			border-color: #ddd;
+		}

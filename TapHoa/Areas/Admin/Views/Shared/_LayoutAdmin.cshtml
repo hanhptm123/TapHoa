@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="../../LayoutAdmin/assets/vendors/css/vendor.bundle.base.css">
     <link rel="stylesheet" href="../../LayoutAdmin/assets/css/style.css">
     <link rel="shortcut icon" href="../../LayoutAdmin/assets/images/favicon.ico" />
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" type="text/css">
 </head>
 <body>
     <div class="container-scroller">
@@ -68,7 +69,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="../../index.html">
-                            <span class="menu-title">Home page</span>
+                            <span class="menu-title">Revenue managenment</span>
                             <i class="mdi mdi-home menu-icon"></i>
                         </a>
                     </li>
@@ -104,8 +105,14 @@
                         </a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" asp-area="admin" asp-controller="KhuyenMai" asp-action="DanhMucKhuyenMai">
+                            <span class="menu-title">Promotion managenment</span>
+                            <i class="mdi mdi-contacts menu-icon"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" asp-area="admin" asp-controller="#" asp-action="#">
-                            <span class="menu-title">Revenue managenment</span>
+                            <span class="menu-title">Blog managenment</span>
                             <i class="mdi mdi-contacts menu-icon"></i>
                         </a>
                     </li>
