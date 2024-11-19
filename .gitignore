@@ -1,0 +1,43 @@
+# Thư mục và tệp của Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Thư mục build của .NET
+bin/
+obj/
+
+# Tệp log và tạm thời
+*.log
+*.vsidx
+*.cache
+*.tmp
+*.pid
+
+# Tệp DLL và PDB (debug files)
+*.dll
+*.pdb
+*.exe
+
+# Thư mục chứa thông tin phát sinh trong quá trình debug
+Debug/
+Release/
+
+# Static Web Assets của ASP.NET Core
+wwwroot/
+staticwebassets.build.json
+staticwebassets.development.json
+staticwebassets.runtime.json
+
+# Tệp lock của NuGet
+project.lock.json
+project.fragment.lock.json
+
+# Tệp cấu hình không cần thiết
+appsettings*.json
+
+# Tệp tạm của hệ điều hành
+.DS_Store
+Thumbs.db
